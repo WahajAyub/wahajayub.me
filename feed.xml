@@ -5,48 +5,48 @@
     <link>https://wahajayub.me/</link>
     <description>Selected papers in topological photovoltaics, quantum geometry, noncentrosymmetric materials, Hopf phases, and mathematical condensed matter.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 10:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:23:31 GMT</lastBuildDate>
     <item>
       <title>The bulk photovoltaic effect in one-dimensional tellurium nanowires for self-powered broadband polarization-sensitive photodetection</title>
       <link>https://doi.org/10.1063/5.0336882</link>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0336882</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[A single tellurium nanowire produces a zero-bias broadband photovoltaic response and polarization-sensitive detection from 405 to 1550 nm.]]></description>
+      <description>A single tellurium nanowire produces a zero-bias broadband photovoltaic response and polarization-sensitive detection from 405 to 1550 nm.</description>
     </item>
     <item>
       <title>Monopole Spin Density Wave States in Magnetic Weyl Semimetals</title>
       <link>https://arxiv.org/abs/2607.14829</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.14829</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Monopole spin-density-wave order carries a pairing Berry phase, protected gap nodes, and ideal quantum geometry in the weak-coupling limit.]]></description>
+      <description>Monopole spin-density-wave order in magnetic Weyl semimetals carries a pairing Berry phase, protected gap nodes, and ideal quantum geometry in the weak-coupling limit.</description>
     </item>
     <item>
       <title>Rotation topological states: theory and material realization</title>
       <link>https://arxiv.org/abs/2607.13575</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.13575</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Rotation-eigenvalue subspaces reveal hidden Z2^n topology and surface double-Weyl points missed by conventional occupied-space invariants.]]></description>
+      <description>Decomposing occupied bands by rotation eigenvalue reveals hidden Z2^n topology and surface double-Weyl points that conventional occupied-space invariants miss.</description>
     </item>
     <item>
       <title>ZPAN: An Organic Nonlinear Optical Crystal for High Intensity THz Generation</title>
       <link>https://arxiv.org/abs/2607.13954</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.13954</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Noncentrosymmetric ZPAN crystals combine scalable growth, a polar axis, and strong optical rectification for broadband terahertz generation.]]></description>
+      <description>Noncentrosymmetric ZPAN crystals combine scalable growth, a polar axis, and strong optical rectification to generate broadband terahertz fields near 1 MV/cm.</description>
     </item>
     <item>
       <title>Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems</title>
       <link>https://arxiv.org/abs/2607.13680</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.13680</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Symmetry permits magnetic-quadrupole currents broadly in noncentrosymmetric point groups and predicts measurable edge accumulation.]]></description>
+      <description>Symmetry permits magnetic-quadrupole currents broadly in noncentrosymmetric point groups and predicts measurable edge accumulation in noncentrosymmetric antiferromagnets.</description>
     </item>
     <item>
       <title>Emergent induction in magnetic Weyl semimetals</title>
       <link>https://arxiv.org/abs/2607.13559</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2607.13559</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Magnetization dynamics produces emergent induction with distinct relaxation-dependent intraband and Weyl-node-dependent interband terms.]]></description>
+      <description>Magnetization dynamics in magnetic Weyl semimetals produces emergent induction with relaxation-time-dependent intraband and Weyl-node-separation-dependent interband contributions.</description>
     </item>
   </channel>
 </rss>
