@@ -1,0 +1,305 @@
+{
+  "collected_at": "2026-07-18T09:51:28.391013Z",
+  "window_days": 9,
+  "candidate_count": 13,
+  "research_focus": "Topological photovoltaic and nonlinear-response phenomena in quantum materials, particularly connections among band topology, quantum geometry, disorder and scattering, broken inversion symmetry, and the mathematical classification of delicate or unstable band invariants.\n",
+  "candidates": [
+    {
+      "id": "http://arxiv.org/abs/2607.14829v1",
+      "source": "arXiv",
+      "title": "Monopole Spin Density Wave States in Magnetic Weyl Semimetals",
+      "authors": [
+        "Xi Luo"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.14829v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.14829v1",
+      "abstract": "The interplay between topology and magnetism in Weyl semimetals has recently emerged as a fertile ground for novel quantum phases. While monopole harmonic order parameters have been established for superconductivity and charge density waves in these systems, their spin density wave counterparts remain unexplored. Here we introduce monopole spin density wave (SDW) states arising from particle-hole pairing between nested Fermi surfaces enclosing Weyl nodes of the same chirality. We demonstrate that the SDW order parameter inherits a nontrivial pairing Berry phase and is described by monopole harmonic functions that exhibit topologically protected nodal structures in the gap function. Through a concrete lattice model, we show that helical and cycloidal SDW orders produce distinct signatures in band structures, Fermi arc distributions, and surface spin polarization patterns, which can be directly resolved by spin- and angle-resolved photoemission spectroscopy. Remarkably, we find that the quantum geometric tensor of the monopole pairing realizes ideal quantum geometry in the weak-coupling limit, where quantum distance fluctuations are entirely governed by Berry curvature. Our results not only unify the understanding of monopole ordered states across pairing channels but also provide experimental avenues for distinguishing competing magnetic orders in ReAlX (Re=rare earth elements, X=Si, Ge) materials and suggest potential applications in topological spintronics.",
+      "source_categories": [
+        "cond-mat.str-el"
+      ],
+      "matched_terms": [
+        "quantum geometry",
+        "berry curvature",
+        "weyl semimetal"
+      ],
+      "local_score": 15
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13954v1",
+      "source": "arXiv",
+      "title": "ZPAN: An Organic Nonlinear Optical Crystal for High Intensity THz Generation",
+      "authors": [
+        "Matthew J. Lutz",
+        "Sin-Hang Ho",
+        "Zachary B. Zaccardi",
+        "Paige Petersen",
+        "Elisha Jones",
+        "Stacey J. Smith",
+        "David J. Michaelis",
+        "Jeremy A. Johnson"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13954v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.13954v1",
+      "abstract": "We report an optimized synthesis and crystal growth protocol as well as structural, optical, and terahertz (THz) generation characteristics of the organic nonlinear optical crystal ZPAN ((Z)-1-(((4-Phenylamino)phenylamino)methylene)naphthalen-2(1H)-one). Noncentrosymmetric packing of ZPAN is most reliably achieved by slow evaporation from an acetone-based solvent system, producing long rectangular prisms (7 cm \\times 1 cm \\times 0.2 cm) with (010) as the main face and [001] as both the polar axis and the direction of elongated crystal growth. [001] is thus the most effective pump polarization direction for generating THz light via optical rectification. The THz generation characteristics of the developed ZPAN crystals are determined at different near-infrared irradiation wavelengths, crystal thicknesses, and pump powers, revealing that ZPAN can generate a peak-to-peak electric field of near 1 MV/cm with a smooth spectrum from 0.5-3.4 THz. Calculated second order nonlinear optical coefficients indicate that both the (100) and (010) faces are theoretically capable of THz generation, though (010) is consistently the dominant growth face. The large size of this face (7 cm \\times 1 cm) makes it possible to scale laser power with aperture size, for use in extremely high-power laser systems.",
+      "source_categories": [
+        "physics.optics"
+      ],
+      "matched_terms": [
+        "noncentrosymmetric",
+        "nonlinear optical"
+      ],
+      "local_score": 8
+    },
+    {
+      "id": "doi:10.1063/5.0336882",
+      "source": "Applied Physics Letters",
+      "title": "The bulk photovoltaic effect in one-dimensional tellurium nanowires for self-powered broadband polarization-sensitive photodetection",
+      "authors": [
+        "Zeheng Chen",
+        "Qi Sun",
+        "Hui Yang",
+        "Fangli Jing",
+        "Zhanggui Hu",
+        "Yicheng Wu",
+        "Hongjun Liu"
+      ],
+      "published": "2026-07-15",
+      "url": "https://doi.org/10.1063/5.0336882",
+      "pdf_url": "",
+      "abstract": "The bulk photovoltaic effect (BPVE) provides a promising route toward bias-free, high-efficiency photodetection, yet its realization in low-dimensional anisotropic semiconductors remains largely unexplored. Here, we report a pronounced intrinsic BPVE in one-dimensional tellurium (Te) nanowires and exploit it for self-powered photodetection. A photodetector based on a single Te nanowire exhibits broadband photoresponse from 405 to 1550 nm under zero external bias, with a responsivity of 5.9 mA/W, a detectivity of 1.85 × 1011 Jones at 1550 nm, a power of 0.01 mW/cm2, and a polarization anisotropy ratio (PAR) of up to 2.33 (1550 nm, 0.15 mW/cm2). Benefiting from its strong polarization sensitivity, the device further enables polarization-encoded optical communication and polarization-resolved photocurrent imaging without external bias. These results establish Te nanowires as a promising platform for self-powered and highly integrated polarization-sensitive optoelectronics.",
+      "source_categories": [
+        "journal-article"
+      ],
+      "matched_terms": [
+        "bulk photovoltaic"
+      ],
+      "local_score": 7
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13680v1",
+      "source": "arXiv",
+      "title": "Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems",
+      "authors": [
+        "Yuuga Takasu",
+        "Satoru Hayami"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13680v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.13680v1",
+      "abstract": "Magnetization control via magnetic octupole injection has recently been proposed for a new class of centrosymmetric antiferromagnets, namely $d$-wave altermagnets, where the magnetic octupole is the lowest-rank magnetic multipole allowed by symmetry and serves as an alternative carrier to spin injection. In contrast, in noncentrosymmetric antiferromagnets, the magnetic quadrupole (MQ) constitutes the lowest-rank symmetry-allowed magnetic multipole, suggesting that MQ currents can provide an efficient route toward magnetization control through MQ injection. Here, we establish the symmetry conditions for MQ-current generation by constructing the multipole representation of the MQ conductivity tensor and show that MQ currents are generically allowed in noncentrosymmetric crystallographic point groups. As a representative example, we demonstrate MQ-current generation in the linear-response regime associated with symmetry lowering from the centrosymmetric point group ($mmm$) to its noncentrosymmetric subgroup ($mm2$). Furthermore, we reveal MQ accumulation near sample edges, analogous to spin accumulation induced by the spin Hall effect. This edge accumulation provides direct evidence of MQ-current generation and constitutes a key prerequisite for realizing MQ injection and MQ-based magnetization control in noncentrosymmetric antiferromagnets.",
+      "source_categories": [
+        "cond-mat.str-el"
+      ],
+      "matched_terms": [
+        "noncentrosymmetric"
+      ],
+      "local_score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14465v1",
+      "source": "arXiv",
+      "title": "Fractional quantum ferroelectric control of spin-valley locking and valley Hall effects in altermagnetic monolayer Cr2S2",
+      "authors": [
+        "Tao Yao",
+        "Quan Shen",
+        "Jiansheng Dong",
+        "Jianing Tan"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.14465v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.14465v1",
+      "abstract": "Fractional quantum multiferroics, arising from the coupling between fractional quantum ferroelectricity (FQFE) and altermagnetism (AM), provide a promising platform for nonvolatile control of momentum dependent spin splitting in systems with zero net magnetization. However, extending this FQFE-AM coupling to valley degrees of freedom and Berry curvature driven valley Hall effects remains largely unexplored. Here, using first-principles calculations, we demonstrate that monolayer Cr2S2 realizes a two dimensional FQFE-AM platform with two switchable FQFE states connected by composite symmetry operations combining a fractional lattice translation with time reversal or parity-time reversal. We show that FQFE switching reverses the AM spin-polarized band structure and interchanges the spin characters of the X and Y valleys without rotating the Néel vector, thereby enabling polarization switchable spin-valley locking. Moreover, the two FQFE states exhibit reversed Berry curvature distributions, which, together with the switched spin-valley locking, enable polarization controlled valley Hall effects under both electron and hole doping. These results demonstrate a symmetry based mechanism for nonvolatile electrical control of AM spin splitting, spin-valley locking, and valley Hall effects, offering a general route toward low-power valleytronic devices based on FQFE-AM coupling.",
+      "source_categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14461v1",
+      "source": "arXiv",
+      "title": "Multistate ferroelectricity and switchable layer-locked anomalous valley Hall effects in bilayer ReIrGe2Se6",
+      "authors": [
+        "Tao Yao",
+        "Quan Shen",
+        "Jianing Tan",
+        "Jiansheng Dong"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.14461v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.14461v1",
+      "abstract": "Two-dimensional multiferroic materials, which combine magnetic and ferroelectric (FE) orders with strong magnetoelectric coupling, represent ideal platforms for high-density information storage and low-power multistate electronics. However, the intrinsic bistability of conventional ferroelectricity poses a substantial challenge to realizing multiple nonvolatile states and programmable Berry-curvature driven transport responses within a single material. Here, using first-principles calculations, we predict multistate ferroelectricity in AA0-stacked bilayer ReIrGe2Se6. The system hosts four energetically stable FE polarization configurations, among which three are connected through reversible switching pathways, while the fourth exhibits a unidirectional switching pathway. The distinct FE configurations further give rise to a cyclic semiconductor-metal-semiconductor evolution in the electronic structure. Notably, FE polarization switching is intimately coupled to layer degrees of freedom and Berry curvature. The layer-dependent electrostatic potential associated with different FE configurations controls the layer character of the band-edge states, thereby locking the Berry curvature to specific layer channels. As a result, bilayer ReIrGe2Se6 enables switching between an anomalous valley Hall effect and a layer-locked anomalous valley Hall effect, providing nonvolatile control of layer, valley, and spin-resolved transport responses. In addition, magnetization reversal switches the valley and spin channels while preserving the layer-resolved character. These results establish bilayer ReIrGe2Se6 as a multistate ferroelectric platform for programmable Berry-curvature related transport, offering microscopic insight into topology based multifunctional electronic and valleytronic devices.",
+      "source_categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13933v1",
+      "source": "arXiv",
+      "title": "Lecture Notes: The two-dimensional electron Wigner crystal -- What's old and what's new?",
+      "authors": [
+        "Brian Skinner"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13933v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.13933v1",
+      "abstract": "These are lecture notes created for a short lecture series at the 2026 CTEQ Summer School at Penn State. They are written in a conversational and informal style. The goal of these notes is to introduce and review a smattering of old and new ideas about the Wigner crystal (the solid phase of the two-dimensional electron system) in the context of recent experiments. Particular emphasis is given to the semiclassical description of the Wigner crystal, its quantum melting transition, its spin order, and the ways in which the Wigner crystal can be modified by Berry curvature.",
+      "source_categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13923v1",
+      "source": "arXiv",
+      "title": "Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets",
+      "authors": [
+        "Dimos Chatzichrysafis",
+        "Alexander Mook"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13923v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.13923v1",
+      "abstract": "We theoretically demonstrate that axial phonons, lattice vibration quanta carrying finite angular momentum, can host a $d$-wave angular momentum texture in orbital altermagnets in the absence of spin-orbit coupling. We consider a minimal electronic tight-binding model with $d$-wave loop-current order that breaks time-reversal symmetry. Within the Born-Oppenheimer approximation, we incorporate electron-phonon coupling via the molecular Berry curvature and show that the underlying $d$-wave orbital magnetic moment texture of the electronic state is transferred to the phonons without requiring the relativistic spin-orbit coupling. Our results expand the range of platforms available for engineering axial phonons and point to functionality unique to $d$-wave textures, including angular-momentum Seebeck and splitter effects, corresponding to longitudinal and transverse angular-momentum currents driven by a temperature gradient.",
+      "source_categories": [
+        "cond-mat.str-el"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13559v2",
+      "source": "arXiv",
+      "title": "Emergent induction in magnetic Weyl semimetals",
+      "authors": [
+        "Takahiro Anan",
+        "Takahiro Morimoto"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13559v2",
+      "pdf_url": "https://arxiv.org/pdf/2607.13559v2",
+      "abstract": "We theoretically study emergent electromagnetic responses in Weyl semimetals. Focusing on magnetic Weyl semimetals, we develop a general theory of emergent induction driven by magnetic dynamics. We show that magnetoelectric (ME) responses in Weyl semimetals give rise to emergent induction mediated by magnetization dynamics. Using effective two-band models for magnetic Weyl semimetals, we derive a formula for the ME response that includes both intraband and interband contributions. The resulting formula shows that the intraband contribution is proportional to the relaxation time $τ$, whereas the interband contribution is associated with the separation of the Weyl nodes. Applying the general formula to a model of polar Weyl ferromagnets, we demonstrate that the dynamics of the toroidal moment is closely related to the emergent inductive response in polar Weyl ferromagnets, as recently discovered by Suzuki et al. [Y. Suzuki et al. arXiv:2607.12322]. The chemical-potential dependence of the inductance indicates that the emergent electromagnetic response is enhanced in the energy range of the Weyl dispersion, reflecting the topological nature of Weyl semimetals.",
+      "source_categories": [
+        "cond-mat.mes-hall",
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "weyl semimetal"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.15197v1",
+      "source": "arXiv",
+      "title": "Emergent d-wave altermagnetism in chlorine-adsorbed FeSe monolayer",
+      "authors": [
+        "Zi-Hao Ding",
+        "Ze-Feng Gao",
+        "Kai Liu",
+        "Peng-Jie Guo",
+        "Zhong-Yi Lu"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.15197v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.15197v1",
+      "abstract": "The recent emergence of altermagnetism has opened new frontiers in condensed matter physics, yet material platforms capable of hosting both intrinsic altermagnetic order and superconductivity remain exceedingly rare. Here, based on symmetry analysis and first-principles calculations, we propose a realistic route to engineer robust altermagnetism in monolayer FeSe, a prototypical iron-based superconductor. By designing a stoichiometric Fe2Se2Cl structure through single-side Cl adsorption and introducing gate-tunable hole doping, we achieve a highly stable altermagnetic ground state. Our calculations reveal a synergistic mechanism: hole doping firmly stabilizes the checkerboard magnetic order, while the asymmetric ligand environment intrinsically breaks the outof-plane spatial inversion symmetry. Consequently, this interplay induces a giant altermagnetic spin splitting of up to 620 meV. Crucially, we demonstrate that this altermagnetic state and its giant spin splitting are highly resilient, persisting even in a 10-layer slab model that accurately simulates the bulk limit. By introducing altermagnetism into the well-established FeSe-based superconducting family, our findings identify Fe2Se2Cl as a promising platform for spintronic applications and motivate future studies of the possible interplay between altermagnetism and superconductivity.",
+      "source_categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "inversion symmetry"
+      ],
+      "local_score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14590v1",
+      "source": "arXiv",
+      "title": "Second-Order Optical Nonlinearity of AlScN Films Grown By Molecular Beam Epitaxy",
+      "authors": [
+        "Joongwon Lee",
+        "Thai-Son Nguyen",
+        "Len van Deurzen",
+        "Debaditya Bhattacharya",
+        "Chandrashekhar Savant",
+        "Siddhartha Ghosh",
+        "Patrick Shea",
+        "Carl Bernard",
+        "Huili Grace Xing",
+        "Debdeep Jena",
+        "Farhan Rana"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.14590v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.14590v1",
+      "abstract": "Alloys of AlN have rapidly emerged as a material platform for nonlinear optics. In this paper, we measure the second-order optical nonlinearity of AlScN films grown directly on nitrided c-plane sapphire by molecular beam epitaxy. This direct growth approach, which bypasses a thick AlN buffer layer, allows us to isolate the true nonlinear response of the AlScN film. Our results show a large enhancement of d31, but a suppression of d33 in AlScN films compared to AlN. We observe that d31 can be as high as 4.92 pm/V , which is 60 times larger than that of AlN. The development of AlScN-based photonic devices can enable energy-efficient nonlinear optical operations that can be epitaxially integrated with electronic and photonic devices based on Si, GaN and AlN.",
+      "source_categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "nonlinear optical"
+      ],
+      "local_score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.14459v1",
+      "source": "arXiv",
+      "title": "Interlayer sliding direction as a symmetry selector in altermagnetic bilayer Fe2WS4: Switchable anomalous Hall and anomalous valley Hall effects",
+      "authors": [
+        "Quan Shen",
+        "Jianing Tan",
+        "Tao Yao",
+        "Wenhu Liao",
+        "Jiansheng Dong"
+      ],
+      "published": "2026-07-16",
+      "url": "http://arxiv.org/abs/2607.14459v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.14459v1",
+      "abstract": "Altermagnets combine compensated collinear magnetic order with momentum-dependent spin splitting, offering a promising platform for coupling spin and valley degrees of freedom with ferroelectricity and Berry-curvature driven transport in the absence of net magnetization. However, achieving nonvolatile and selective control of these intertwined degrees of freedom remains a key challenge. Here, using first-principles calculations, we show that the direction of interlayer sliding serves as a symmetry selective control parameter in altermagnetic bilayer Fe2WS4. Diagonal sliding breaks inversion symmetry and produces two sliding ferroelectric states with opposite out-of-plane polarizations. Reversal of the ferroelectric polarization switches the momentum-dependent spin texture and reverses the anomalous Hall conductivity, revealing strong magnetoelectric coupling and enabling a ferroelectrically switchable anomalous Hall effect. In contrast, axial sliding preserves inversion symmetry but breaks the crystalline symmetry relating the X and Y valleys, leading to reversible valley polarization and a switchable anomalous valley Hall effect. These results establish the direction of interlayer sliding as a nonvolatile symmetry selector for controlling ferroelectricity, spin texture, valley polarization, and Hall transport responses in two-dimensional altermagnetic bilayers.",
+      "source_categories": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.mes-hall"
+      ],
+      "matched_terms": [
+        "inversion symmetry"
+      ],
+      "local_score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.13575v1",
+      "source": "arXiv",
+      "title": "Rotation topological states: theory and material realization",
+      "authors": [
+        "Chun-Xue Liu",
+        "Yilin Han",
+        "Runze Li",
+        "Yulong Liu",
+        "Zhi-Ming Yu"
+      ],
+      "published": "2026-07-15",
+      "url": "http://arxiv.org/abs/2607.13575v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.13575v1",
+      "abstract": "The conventional characterization of topological materials relies on topological invariants calculated from the entire set of occupied bands. However, when a system possesses rotational symmetry, the occupied Hilbert space can be decomposed into multiple subspaces labeled by distinct rotation eigenvalues. We show that this decomposition reveals hidden topological states characterized by a novel $\\mathbb{Z}_2^n$ topological invariant, where $n$ is the number of subspaces, while the conventional $\\mathbb{Z}_2$ invariant may fail to detect the topology hidden in the rotation subspaces. Remarkably, time-reversal symmetry pairs conjugate rotation eigenvalues and guarantees that the two subspaces have the same $\\mathbb{Z}_2$ invariants, making the topology always hidden from the conventional global invariant. We formulate the theory of rotation-subspace topology and demonstrate its material realization in bulk CsCl. Using first-principles calculations and symmetry analysis, we show that bulk CsCl, which is diagnosed as topologically trivial by the conventional approach, features a nontrivial $\\mathbb{Z}_2^3$ invariant along the $Γ$-R path and a nontrivial $\\mathbb{Z}_2^4$ invariant along the $Γ$-Z and M-R paths, leading to double Weyl points on the (111) and (001) surfaces, respectively. The subspace $\\mathbb{Z}_2^n$ invariant proposed here serves as a necessary refinement for symmetry-protected topological phases and will facilitate the identification of a large class of topological states overlooked by existing diagnostics.",
+      "source_categories": [
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "topological material"
+      ],
+      "local_score": 3
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+research_focus: >
+  Topological photovoltaic and nonlinear-response phenomena in quantum materials,
+  particularly connections among band topology, quantum geometry, disorder and
+  scattering, broken inversion symmetry, and the mathematical classification of
+  delicate or unstable band invariants.
+
+priority_topics:
+  - bulk photovoltaic effect
+  - intrinsic shift current
+  - injection current
+  - impurity-assisted shift current
+  - ballistic photovoltaic current
+  - disorder and relaxation in nonlinear response
+  - quantum metric and Berry curvature
+  - noncentrosymmetric topological materials
+  - Weyl, Dirac, Chern, and nodal systems
+  - Hopf, real Hopf, spin Hopf, and Hopf-Euler insulators
+  - delicate, unstable, and multigap topology
+  - returning Thouless pumps
+  - homotopy classification and characteristic classes
+  - mathematical foundations of condensed matter
+
+priority_connections:
+  - topology enabling or quantizing photocurrent
+  - quantum-geometric contributions to nonlinear response
+  - impurity or ballistic mechanisms beyond intrinsic shift current
+  - broken bulk inversion symmetry in topological materials
+  - Hopf or delicate invariants with optical signatures
+  - mathematical tools that produce computable condensed-matter invariants
+
+categories:
+  - topological_photovoltaics
+  - shift_current
+  - impurity_ballistic_bpve
+  - quantum_geometry
+  - topological_materials
+  - noncentrosymmetric_materials
+  - nonlinear_transport
+  - floquet_physics
+  - hopf_topology
+  - mathematical_condensed_matter
+
+selection:
+  maximum_weekly_picks: 6
+  minimum_relevance_score: 7
+  retain_highlighted_score_floor: 5

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Wahaj Ayub's research radar for topological photovoltaics, quantum geometry, noncentrosymmetric materials, and mathematical condensed matter.">
+  <meta name="theme-color" content="#08101f">
+  <meta property="og:title" content="Wahaj Ayub — Research Radar">
+  <meta property="og:description" content="Weekly signals from topological photovoltaics, quantum geometry, and the mathematics underneath.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://wahajayub.me/">
+  <link rel="canonical" href="https://wahajayub.me/">
+  <link rel="alternate" type="application/rss+xml" title="Wahaj Ayub Research Radar" href="/feed.xml">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>◈</text></svg>">
+  <title>Wahaj Ayub — Research Radar</title>
+</head>
+<body>
+  <a class="skip-link" href="#papers">Skip to papers</a>
+
+  <header class="site-header">
+    <a class="wordmark" href="/" aria-label="Wahaj Ayub home">
+      <span class="wordmark-mark" aria-hidden="true">WA</span>
+      <span>Wahaj Ayub</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="active" href="/">Radar</a>
+      <a href="/about.html">About the feed</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="live-dot" aria-hidden="true"></span> Weekly literature signal</p>
+        <h1 id="page-title">Topological photovoltaics,<br><em>and the mathematics underneath.</em></h1>
+        <p class="hero-intro">
+          A selective research feed spanning nonlinear photocurrent, quantum geometry,
+          noncentrosymmetric topological matter, Hopf phases, and delicate invariants.
+          Each pick includes a concise summary and its specific relevance to my research.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="#papers">Read this issue</a>
+          <a class="button ghost" href="/about.html">How papers are selected</a>
+        </div>
+      </div>
+
+      <aside class="signal-panel" aria-label="Current edition">
+        <div class="signal-orbit" aria-hidden="true">
+          <span class="orbit orbit-one"></span>
+          <span class="orbit orbit-two"></span>
+          <span class="orbit-core"></span>
+        </div>
+        <div class="signal-meta">
+          <span class="signal-label">Current edition</span>
+          <strong id="edition-label">Loading…</strong>
+          <span id="updated-label">Checking the feed</span>
+        </div>
+      </aside>
+    </section>
+
+    <section class="lens-strip" aria-label="Research priorities">
+      <span class="lens-label">Research lens</span>
+      <div class="lens-items">
+        <span>Shift &amp; ballistic current</span>
+        <span>Quantum geometry</span>
+        <span>Noncentrosymmetric topology</span>
+        <span>Hopf &amp; delicate invariants</span>
+      </div>
+    </section>
+
+    <section class="feed-section" id="papers" aria-labelledby="papers-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Curated papers</p>
+          <h2 id="papers-title">This week’s signals</h2>
+        </div>
+        <div class="issue-stats" aria-live="polite">
+          <div><strong id="paper-count">—</strong><span>papers</span></div>
+          <div><strong id="highlight-count">—</strong><span>highlights</span></div>
+        </div>
+      </div>
+
+      <div class="controls" aria-label="Paper filters">
+        <label class="search-box">
+          <span class="sr-only">Search papers</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="paper-search" type="search" placeholder="Search titles, mechanisms, invariants…" autocomplete="off">
+        </label>
+        <div class="filter-row" id="filter-row" role="group" aria-label="Filter by topic">
+          <button class="filter active" type="button" data-filter="all" aria-pressed="true">All</button>
+          <button class="filter" type="button" data-filter="shift_current" aria-pressed="false">Photocurrent</button>
+          <button class="filter" type="button" data-filter="quantum_geometry" aria-pressed="false">Quantum geometry</button>
+          <button class="filter" type="button" data-filter="noncentrosymmetric_materials" aria-pressed="false">Noncentrosymmetric</button>
+          <button class="filter" type="button" data-filter="hopf_topology" aria-pressed="false">Hopf &amp; delicate</button>
+          <button class="filter" type="button" data-filter="mathematical_condensed_matter" aria-pressed="false">Mathematics</button>
+        </div>
+      </div>
+
+      <div class="feed-notice" id="feed-notice" hidden></div>
+      <div class="paper-list" id="paper-list" aria-live="polite">
+        <article class="paper-card skeleton-card" aria-label="Loading paper">
+          <div class="skeleton line short"></div>
+          <div class="skeleton line title"></div>
+          <div class="skeleton line"></div>
+          <div class="skeleton block"></div>
+        </article>
+      </div>
+      <div class="empty-state" id="empty-state" hidden>
+        <span aria-hidden="true">∅</span>
+        <h3>No matching signals</h3>
+        <p>Try a broader topic or clear the search.</p>
+      </div>
+    </section>
+
+    <section class="method-preview">
+      <div>
+        <p class="eyebrow">A narrow funnel</p>
+        <h2>Broad scan.<br>Small, opinionated selection.</h2>
+      </div>
+      <ol class="funnel" aria-label="Selection process">
+        <li><span>01</span><strong>Collect</strong><small>Recent arXiv and journal records</small></li>
+        <li><span>02</span><strong>Filter</strong><small>Keywords, embeddings, and deduplication</small></li>
+        <li><span>03</span><strong>Evaluate</strong><small>Research-specific relevance and symmetry</small></li>
+        <li><span>04</span><strong>Publish</strong><small>Only the strongest, grounded summaries</small></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>Wahaj Ayub</strong>
+      <span>Condensed-matter theory &amp; topological photovoltaics</span>
+    </div>
+    <p>AI-assisted curation, grounded in source abstracts. Selection and interpretation remain mine.</p>
+  </footer>
+
+  <script src="/app.js" defer></script>
+</body>
+</html>

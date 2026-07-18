@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wahaj Ayub — Research Radar</title>
+    <link>https://wahajayub.me/</link>
+    <description>Selected papers in topological photovoltaics, quantum geometry, noncentrosymmetric materials, Hopf phases, and mathematical condensed matter.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Non-Abelian Hopf-Euler insulators</title>
+      <link>https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.075135</link>
+      <guid isPermaLink="true">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.075135</guid>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[Connects a multigap Hopf invariant to an optical integrated circular shift effect and real-space quantum geometry.]]></description>
+    </item>
+    <item>
+      <title>Delicate topology protected by rotation symmetry: Crystalline Hopf insulators and beyond</title>
+      <link>https://arxiv.org/abs/2111.09365</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2111.09365</guid>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
+      <description><![CDATA[Develops a returning Thouless pump and a crystalline theory of delicate Hopf topology.]]></description>
+    </item>
+  </channel>
+</rss>
