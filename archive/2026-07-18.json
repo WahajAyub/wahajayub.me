@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:04:22Z",
+  "updated_at": "2026-07-18T10:23:31Z",
   "edition_label": "Week of July 13, 2026",
   "edition_type": "weekly",
   "topic": "Topological photovoltaics and mathematical condensed matter",
@@ -8,12 +8,27 @@
       "id": "doi:10.1063/5.0336882",
       "source": "Applied Physics Letters",
       "title": "The bulk photovoltaic effect in one-dimensional tellurium nanowires for self-powered broadband polarization-sensitive photodetection",
-      "authors": ["Zeheng Chen", "Qi Sun", "Hui Yang", "Fangli Jing", "Zhanggui Hu", "Yicheng Wu", "Hongjun Liu"],
+      "authors": [
+        "Zeheng Chen",
+        "Qi Sun",
+        "Hui Yang",
+        "Fangli Jing",
+        "Zhanggui Hu",
+        "Yicheng Wu",
+        "Hongjun Liu"
+      ],
       "published": "2026-07-15",
       "url": "https://doi.org/10.1063/5.0336882",
       "pdf_url": "",
-      "categories": ["topological_photovoltaics", "nonlinear_transport"],
-      "tags": ["bulk photovoltaic effect", "tellurium nanowire", "polarization-sensitive photodetection"],
+      "categories": [
+        "topological_photovoltaics",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "bulk photovoltaic effect",
+        "tellurium nanowire",
+        "polarization-sensitive photodetection"
+      ],
       "highlight": true,
       "highlight_label": "Direct BPVE experiment",
       "research_relevance_score": 10,
@@ -22,7 +37,9 @@
       "research_relevance": "This is the week's most direct experimental connection to the research program. Tellurium nanowires provide a concrete quasi-one-dimensional platform in which symmetry, anisotropy, and microscopic photocurrent mechanisms can be compared. A useful follow-up would separate intrinsic shift or injection terms from scattering-dependent ballistic and device-contact contributions rather than treating BPVE as a single mechanism.",
       "potential_use": "Use the reported wavelength, polarization, and zero-bias data as an experimental benchmark for a mechanism-resolved calculation of tellurium photocurrent.",
       "confidence": "high",
-      "photocurrent_mechanisms": ["intrinsic bulk photovoltaic effect; microscopic channel unresolved in the abstract"],
+      "photocurrent_mechanisms": [
+        "intrinsic bulk photovoltaic effect; microscopic channel unresolved in the abstract"
+      ],
       "topological_invariants": [],
       "noncentrosymmetry_evidence": "Not stated explicitly in the supplied abstract; no noncentrosymmetric-topological highlight is assigned."
     },
@@ -30,12 +47,22 @@
       "id": "http://arxiv.org/abs/2607.14829v1",
       "source": "arXiv",
       "title": "Monopole Spin Density Wave States in Magnetic Weyl Semimetals",
-      "authors": ["Xi Luo"],
+      "authors": [
+        "Xi Luo"
+      ],
       "published": "2026-07-16",
       "url": "https://arxiv.org/abs/2607.14829",
       "pdf_url": "https://arxiv.org/pdf/2607.14829",
-      "categories": ["quantum_geometry", "topological_materials", "mathematical_condensed_matter"],
-      "tags": ["Weyl semimetal", "monopole harmonics", "ideal quantum geometry"],
+      "categories": [
+        "quantum_geometry",
+        "topological_materials",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "Weyl semimetal",
+        "monopole harmonics",
+        "ideal quantum geometry"
+      ],
       "highlight": true,
       "highlight_label": "Ideal quantum geometry",
       "research_relevance_score": 8,
@@ -45,19 +72,36 @@
       "potential_use": "Speculatively, adapt the lattice model to compute second-order optical tensors across the helical and cycloidal ordered phases.",
       "confidence": "high",
       "photocurrent_mechanisms": [],
-      "topological_invariants": ["pairing Berry phase", "Weyl-node chirality", "monopole-harmonic charge"],
+      "topological_invariants": [
+        "pairing Berry phase",
+        "Weyl-node chirality",
+        "monopole-harmonic charge"
+      ],
       "noncentrosymmetry_evidence": "No bulk inversion-symmetry claim is made in the supplied abstract."
     },
     {
       "id": "http://arxiv.org/abs/2607.13575v1",
       "source": "arXiv",
       "title": "Rotation topological states: theory and material realization",
-      "authors": ["Chun-Xue Liu", "Yilin Han", "Runze Li", "Yulong Liu", "Zhi-Ming Yu"],
+      "authors": [
+        "Chun-Xue Liu",
+        "Yilin Han",
+        "Runze Li",
+        "Yulong Liu",
+        "Zhi-Ming Yu"
+      ],
       "published": "2026-07-15",
       "url": "https://arxiv.org/abs/2607.13575",
       "pdf_url": "https://arxiv.org/pdf/2607.13575",
-      "categories": ["topological_materials", "mathematical_condensed_matter"],
-      "tags": ["rotation subspaces", "hidden topology", "double Weyl points"],
+      "categories": [
+        "topological_materials",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "rotation subspaces",
+        "hidden topology",
+        "double Weyl points"
+      ],
       "highlight": true,
       "highlight_label": "Delicate subspace invariant",
       "research_relevance_score": 9,
@@ -67,19 +111,39 @@
       "potential_use": "Use the rotation-sector projector construction as a candidate basis for symmetry-resolved shift-current or injection-current calculations.",
       "confidence": "medium",
       "photocurrent_mechanisms": [],
-      "topological_invariants": ["rotation-subspace Z2^n invariant", "conventional Z2 invariant", "double-Weyl surface charge"],
+      "topological_invariants": [
+        "rotation-subspace Z2^n invariant",
+        "conventional Z2 invariant",
+        "double-Weyl surface charge"
+      ],
       "noncentrosymmetry_evidence": "The abstract does not establish broken bulk inversion symmetry, so the material is not tagged as noncentrosymmetric."
     },
     {
       "id": "http://arxiv.org/abs/2607.13954v1",
       "source": "arXiv",
       "title": "ZPAN: An Organic Nonlinear Optical Crystal for High Intensity THz Generation",
-      "authors": ["Matthew J. Lutz", "Sin-Hang Ho", "Zachary B. Zaccardi", "Paige Petersen", "Elisha Jones", "Stacey J. Smith", "David J. Michaelis", "Jeremy A. Johnson"],
+      "authors": [
+        "Matthew J. Lutz",
+        "Sin-Hang Ho",
+        "Zachary B. Zaccardi",
+        "Paige Petersen",
+        "Elisha Jones",
+        "Stacey J. Smith",
+        "David J. Michaelis",
+        "Jeremy A. Johnson"
+      ],
       "published": "2026-07-15",
       "url": "https://arxiv.org/abs/2607.13954",
       "pdf_url": "https://arxiv.org/pdf/2607.13954",
-      "categories": ["noncentrosymmetric_materials", "nonlinear_transport"],
-      "tags": ["organic crystal", "optical rectification", "terahertz generation"],
+      "categories": [
+        "noncentrosymmetric_materials",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "organic crystal",
+        "optical rectification",
+        "terahertz generation"
+      ],
       "highlight": false,
       "highlight_label": "",
       "research_relevance_score": 7,
@@ -88,7 +152,9 @@
       "research_relevance": "ZPAN is a useful control case for strong second-order response created by explicit noncentrosymmetric packing without a stated topological mechanism. Comparing its symmetry-allowed optical-rectification tensor with band-geometric shift-current formulas can help separate generic polar-crystal enhancement from response that is genuinely tied to Berry geometry or band topology in realistic device-scale crystals.",
       "potential_use": "Use ZPAN as a nontopological noncentrosymmetric benchmark when evaluating whether a proposed topological material offers a distinct nonlinear-response advantage.",
       "confidence": "high",
-      "photocurrent_mechanisms": ["optical rectification"],
+      "photocurrent_mechanisms": [
+        "optical rectification"
+      ],
       "topological_invariants": [],
       "noncentrosymmetry_evidence": "The abstract explicitly reports noncentrosymmetric crystal packing and a [001] polar axis."
     },
@@ -96,12 +162,22 @@
       "id": "http://arxiv.org/abs/2607.13680v1",
       "source": "arXiv",
       "title": "Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems",
-      "authors": ["Yuuga Takasu", "Satoru Hayami"],
+      "authors": [
+        "Yuuga Takasu",
+        "Satoru Hayami"
+      ],
       "published": "2026-07-15",
       "url": "https://arxiv.org/abs/2607.13680",
       "pdf_url": "https://arxiv.org/pdf/2607.13680",
-      "categories": ["noncentrosymmetric_materials", "mathematical_condensed_matter"],
-      "tags": ["magnetic quadrupole", "multipole conductivity", "antiferromagnet"],
+      "categories": [
+        "noncentrosymmetric_materials",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "magnetic quadrupole",
+        "multipole conductivity",
+        "antiferromagnet"
+      ],
       "highlight": false,
       "highlight_label": "",
       "research_relevance_score": 7,
@@ -118,12 +194,23 @@
       "id": "http://arxiv.org/abs/2607.13559v2",
       "source": "arXiv",
       "title": "Emergent induction in magnetic Weyl semimetals",
-      "authors": ["Takahiro Anan", "Takahiro Morimoto"],
+      "authors": [
+        "Takahiro Anan",
+        "Takahiro Morimoto"
+      ],
       "published": "2026-07-15",
       "url": "https://arxiv.org/abs/2607.13559",
       "pdf_url": "https://arxiv.org/pdf/2607.13559",
-      "categories": ["topological_materials", "nonlinear_transport", "quantum_geometry"],
-      "tags": ["magnetic Weyl semimetal", "magnetoelectric response", "relaxation time"],
+      "categories": [
+        "topological_materials",
+        "nonlinear_transport",
+        "quantum_geometry"
+      ],
+      "tags": [
+        "magnetic Weyl semimetal",
+        "magnetoelectric response",
+        "relaxation time"
+      ],
       "highlight": false,
       "highlight_label": "",
       "research_relevance_score": 7,
@@ -133,7 +220,9 @@
       "potential_use": "Compare the paper's intraband/interband decomposition with impurity-assisted and intrinsic terms in a Weyl-semimetal photocurrent calculation.",
       "confidence": "high",
       "photocurrent_mechanisms": [],
-      "topological_invariants": ["Weyl-node chirality and separation"],
+      "topological_invariants": [
+        "Weyl-node chirality and separation"
+      ],
       "noncentrosymmetry_evidence": "A polar Weyl-ferromagnet model is explicit, but no specific bulk material is established as both topological and noncentrosymmetric in the abstract."
     }
   ]
