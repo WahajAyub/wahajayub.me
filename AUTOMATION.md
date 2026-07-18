@@ -1,8 +1,10 @@
 # Weekly subscription curation task
 
-Use this file as the durable operating prompt for the standalone Codex scheduled
-task. The task must use the connected GitHub app and operate only on the public
-repository `WahajAyub/wahajayub.me`.
+Use this file as the durable operating prompt for the local Codex scheduled
+task. Operate only in the local checkout at
+`C:\Users\wahaj\My Drive\Research Work\Topological Photovoltaics\wahajayub.me`
+and its public remote, `WahajAyub/wahajayub.me`. Use Codex subscription usage;
+do not call the OpenAI API or require an API key.
 
 ## Objective
 
@@ -13,7 +15,9 @@ checks. Do not repeat broad discovery or browse the web by default.
 
 ## Inputs
 
-Read these repository files from `main`:
+First change to the checkout above and run `git pull --ff-only` so the candidate
+shortlist produced by GitHub Actions is current. Then read these files from the
+working tree:
 
 1. `config/research-profile.yml`
 2. `data/candidates.json`
@@ -84,7 +88,7 @@ Never invent a symmetry, invariant, material property, result, or mechanism.
 
 ## Publication
 
-Update the following files on `main` through the connected GitHub app:
+Update the following files in the local checkout:
 
 1. Replace `data/papers.json` with the weekly issue.
 2. Create `archive/YYYY-MM-DD.json` with the same issue.
@@ -93,7 +97,10 @@ Update the following files on `main` through the connected GitHub app:
 
 Use UTF-8, valid JSON, and XML-escaped RSS content. Set `edition_type` to
 `weekly`, `edition_label` to `Week of Month D, YYYY`, and `updated_at` to the
-current UTC time. Commit with the message `Publish weekly research radar`.
+current UTC time. Validate the changed JSON and XML, then commit with the
+message `Publish weekly research radar` and push `main` to `origin`. If pulling,
+validation, committing, or pushing fails, do not overwrite remote history;
+report the error and leave the working tree recoverable.
 
 End the run with a short report containing the number reviewed, number
 published, highlighted topics, and any uncertainty that warrants Wahaj's
