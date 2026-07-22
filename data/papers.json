@@ -126,7 +126,12 @@
         "conventional Z2 invariant",
         "double-Weyl surface charge"
       ],
-      "noncentrosymmetry_evidence": "The abstract does not establish broken bulk inversion symmetry, so the material is not tagged as noncentrosymmetric."
+      "noncentrosymmetry_evidence": "The abstract does not establish broken bulk inversion symmetry, so the material is not tagged as noncentrosymmetric.",
+      "relevance_rank": 2,
+      "evidence_basis": "A proposed rotation-subspace Z2^n classification, with bulk CsCl calculations and predicted surface double-Weyl points.",
+      "key_strength": "It supplies a concrete band-decomposition invariant relevant to hidden or delicate topology.",
+      "key_limitation": "No nonlinear optical or photovoltaic response is calculated, and the supplied abstract does not establish bulk noncentrosymmetry.",
+      "critical_assessment": "The paper is highly relevant to the mathematical side of the program because it shows how recombining occupied subspaces can erase detectable topology. That makes it a plausible starting point for symmetry-resolved optical calculations. The connection to photovoltaics remains a research question, not a result: there is no calculated shift or injection current, and the material evidence does not establish the required bulk inversion breaking. It ranks above the other indirect theory papers because the proposed invariant is unusually specific and testable."
     },
     {
       "id": "http://arxiv.org/abs/2607.13954v1",
@@ -166,7 +171,12 @@
         "optical rectification"
       ],
       "topological_invariants": [],
-      "noncentrosymmetry_evidence": "The abstract explicitly reports noncentrosymmetric crystal packing and a [001] polar axis."
+      "noncentrosymmetry_evidence": "The abstract explicitly reports noncentrosymmetric crystal packing and a [001] polar axis.",
+      "relevance_rank": 4,
+      "evidence_basis": "Explicit noncentrosymmetric ZPAN crystal packing, polar axis, optical-rectification measurements, and broadband THz output near 1 MV/cm.",
+      "key_strength": "It provides a concrete noncentrosymmetric nonlinear-optics control case with scale-up-relevant measurements.",
+      "key_limitation": "It is not a topological material study and optical rectification is not equivalent to a bulk photovoltaic current.",
+      "critical_assessment": "ZPAN is useful precisely as a control rather than as evidence for topological photovoltaics. The explicit bulk packing and strong optical-rectification data make it a credible benchmark for generic polar-crystal nonlinear response. However, the mechanism is an optical polarization response, not a demonstrated shift, injection, ballistic, or impurity-assisted photocurrent, and no topology is established. It is retained because it can help test whether a proposed topological enhancement exceeds ordinary noncentrosymmetric-material behavior."
     },
     {
       "id": "http://arxiv.org/abs/2607.13680v1",
