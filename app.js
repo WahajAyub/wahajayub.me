@@ -67,6 +67,7 @@
       '    <div class="paper-kicker">',
       '      <span class="source-chip">' + esc(paper.source || "Paper") + "</span>",
       "      <span>" + esc(prettyDate(paper.published)) + "</span>",
+      paper.relevance_rank ? '<span class="rank-chip">#' + esc(paper.relevance_rank) + ' relevance</span>' : "",
       "    </div>",
       '    <h3 class="paper-title">' + (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(paper.title) + "</a>" : esc(paper.title)) + "</h3>",
       authors ? '    <p class="authors">' + esc(authors) + "</p>" : "",
@@ -79,6 +80,7 @@
       "  </div>",
       '  <div class="paper-side">',
       '    <div class="score-box"><strong>' + esc(score) + '</strong><span>/10 relevance</span></div>',
+      paper.critical_assessment ? '<div class="critical-block"><p class="summary-label">Critical assessment</p><p class="paper-critical">' + esc(paper.critical_assessment) + '</p></div>' : "",
       '    <div><p class="summary-label">At a glance</p><p class="paper-summary">' + esc(paper.tldr || paper.summary || "Summary pending.") + "</p></div>",
       '    <div class="relevance-block"><p class="summary-label">Relevance to my research</p><p class="paper-relevance">' + esc(paper.research_relevance || "Relevance analysis pending.") + "</p></div>",
       "  </div>",
@@ -91,13 +93,13 @@
     const categoryMatch = state.activeFilter === "all" || categories.includes(state.activeFilter);
     if (!categoryMatch) return false;
     if (!state.query) return true;
-    const haystack = [paper.title, paper.summary, paper.tldr, paper.research_relevance, ...(paper.tags || []), ...categories].join(" ").toLowerCase();
+    const haystack = [paper.title, paper.summary, paper.tldr, paper.research_relevance, paper.critical_assessment, paper.key_strength, paper.key_limitation, ...(paper.tags || []), ...categories].join(" ").toLowerCase();
     return haystack.includes(state.query);
   }
 
   function render() {
     const visible = state.papers.filter(matches).sort(function (a, b) {
-      return Number(b.research_relevance_score || 0) - Number(a.research_relevance_score || 0);
+      return Number(a.relevance_rank || 999) - Number(b.relevance_rank || 999) || Number(b.research_relevance_score || 0) - Number(a.research_relevance_score || 0);
     });
     list.innerHTML = visible.map(paperCard).join("");
     empty.hidden = visible.length > 0;
