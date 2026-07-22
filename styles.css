@@ -481,7 +481,7 @@ h1, h2 {
 }
 
 .rank-chip { color: var(--gold); font-size: .72rem; font-weight: 760; letter-spacing: .04em; }
-.critical-block { padding: 16px; border: 1px solid rgba(242,155,165,.25); border-radius: 12px; background: rgba(242,155,165,.06); }
+.critical-block { margin-top: 22px; padding: 16px; border: 1px solid rgba(242,155,165,.25); border-radius: 12px; background: rgba(242,155,165,.06); }
 .critical-block .summary-label { color: var(--rose); }
 .paper-critical { margin: 0; color: var(--paper-soft); font-size: .9rem; line-height: 1.68; }
 .archive-main { padding-bottom: 80px; }
