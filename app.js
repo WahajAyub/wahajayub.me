@@ -127,7 +127,7 @@
     render();
   });
 
-  fetch("/data/papers.json?v=20260721-2", { cache: "no-store" })
+  fetch("/data/papers.json?v=20260721-4", { cache: "no-store" })
     .then(function (response) {
       if (!response.ok) throw new Error("Feed request failed");
       return response.json();
