@@ -57,7 +57,7 @@ Hopf, Hopf-Euler, returning-Thouless-pump, unstable, multigap, homotopy, and
 characteristic-class work when it has a plausible connection to nonlinear or
 photovoltaic response.
 
-## Selection
+## Selection and ranking
 
 - Publish no more than six papers.
 - Normally require a research-relevance score of at least 7/10.
@@ -65,6 +65,14 @@ photovoltaic response.
 - If nothing is sufficiently relevant, publish no issue and only update
   `data/seen.json`.
 - Prefer scientific specificity over filling a quota.
+- Assign every selected paper a unique `relevance_rank`, with 1 as the most
+  relevant paper of the week. Rank by directness of connection to the profile,
+  strength of evidence, and usefulness for a concrete research decision—not by
+  keyword count or citation prestige.
+- Make the ranking discriminating: explain why a higher-ranked paper outranks
+  the next paper, and use the critical limitation as a tie-breaker.
+- Keep lower-scoring papers only when their specific mechanism, invariant, or
+  material creates a high-value research lead; state that reason explicitly.
 
 ## Summary fields
 
@@ -81,8 +89,18 @@ For every selected paper write:
 - `confidence`: `high`, `medium`, or `low`.
 - `highlight`, `highlight_label`, `categories`, `tags`,
   `photocurrent_mechanisms`, and `topological_invariants`.
+- `relevance_rank`: unique integer within the issue; lower is more relevant.
+- `evidence_basis`: what the supplied abstract or inspected primary source
+  actually establishes.
+- `key_strength`: the most decision-relevant scientific strength.
+- `key_limitation`: the main gap, unsupported inference, missing mechanism, or
+  reason the paper may not transfer to the research profile.
+- `critical_assessment`: 60–100 words weighing the result against its limits;
+  do not merely restate the summary.
 
 Never invent a symmetry, invariant, material property, result, or mechanism.
+Do not convert a plausible application into an established result. Explicitly
+label speculation, missing evidence, and indirect relevance.
 
 ## Publication
 
@@ -93,7 +111,9 @@ Update the following files on `main` through the connected GitHub app:
 3. Replace `feed.xml` with a valid RSS 2.0 representation.
 4. Add every reviewed candidate ID to `data/seen.json`, preserving existing IDs.
 
-Use UTF-8, valid JSON, and XML-escaped RSS content. Set `edition_type` to
+Use UTF-8, valid JSON, and XML-escaped RSS content. Preserve the full issue
+  in `archive/YYYY-MM-DD.json` as an immutable dated snapshot; never replace a
+  prior archive entry for a different date. Set `edition_type` to
 `weekly`, `edition_label` to `Week of Month D, YYYY`, and `updated_at` to the
 current UTC time. Validate the changed JSON and XML, then commit with the
 message `Publish weekly research radar`. If a repository read, validation, or
