@@ -41,7 +41,12 @@
         "intrinsic bulk photovoltaic effect; microscopic channel unresolved in the abstract"
       ],
       "topological_invariants": [],
-      "noncentrosymmetry_evidence": "Not stated explicitly in the supplied abstract; no noncentrosymmetric-topological highlight is assigned."
+      "noncentrosymmetry_evidence": "Not stated explicitly in the supplied abstract; no noncentrosymmetric-topological highlight is assigned.",
+      "relevance_rank": 1,
+      "evidence_basis": "Direct device-level BPVE measurements in single Te nanowires, including zero-bias response, wavelength range, and polarization metrics.",
+      "key_strength": "It is the only supplied candidate with a direct bulk-photovoltaic experiment and quantitative device benchmark.",
+      "key_limitation": "The abstract does not resolve shift, injection, ballistic, impurity-assisted, excitation, recombination, or contact contributions.",
+      "critical_assessment": "This is the strongest weekly match because it measures the target phenomenon rather than a neighboring response. Its practical metrics make it useful as a benchmark for theory and experiment. The central limitation is mechanistic: calling the response intrinsic BPVE does not identify which microscopic current channel dominates, and the abstract does not settle how device geometry or contacts affect the measurement. Its relevance is therefore high for benchmarking, but incomplete for mechanism-level conclusions."
     },
     {
       "id": "http://arxiv.org/abs/2607.14829v1",
@@ -77,7 +82,12 @@
         "Weyl-node chirality",
         "monopole-harmonic charge"
       ],
-      "noncentrosymmetry_evidence": "No bulk inversion-symmetry claim is made in the supplied abstract."
+      "noncentrosymmetry_evidence": "No bulk inversion-symmetry claim is made in the supplied abstract.",
+      "relevance_rank": 3,
+      "evidence_basis": "Monopole-harmonic SDW order in a lattice Weyl model, pairing Berry phase, protected gap nodes, and ideal quantum geometry in weak coupling.",
+      "key_strength": "It gives a controlled quantum-geometric construction linking Berry curvature and quantum distance in an ordered Weyl setting.",
+      "key_limitation": "The paper does not calculate photovoltaic or second-order optical response, and the ReAlX connection is presented as a candidate material direction.",
+      "critical_assessment": "The ideal quantum-geometry result is a valuable conceptual bridge to geometric nonlinear response, and the monopole-harmonic structure is more specific than a generic Weyl-semimetal claim. Still, the photovoltaic connection is entirely prospective: the supplied abstract reports spectroscopy signatures and spintronics motivation, not photocurrent. The candidate-material discussion also should not be treated as proof of a usable noncentrosymmetric platform. It ranks below the rotation-topology paper because its response relevance requires an additional model extension."
     },
     {
       "id": "http://arxiv.org/abs/2607.13575v1",
@@ -188,7 +198,12 @@
       "confidence": "high",
       "photocurrent_mechanisms": [],
       "topological_invariants": [],
-      "noncentrosymmetry_evidence": "Noncentrosymmetric crystallographic point groups and the mm2 example are explicit in the abstract."
+      "noncentrosymmetry_evidence": "Noncentrosymmetric crystallographic point groups and the mm2 example are explicit in the abstract.",
+      "relevance_rank": 5,
+      "evidence_basis": "Point-group and multipole-conductivity analysis for magnetic-quadrupole currents, including an mmm-to-mm2 example and edge accumulation.",
+      "key_strength": "The symmetry decomposition is transferable to classifying tensor response in noncentrosymmetric magnetic systems.",
+      "key_limitation": "The work treats linear magnetic-multipole transport, not optical BPVE, and no photocurrent channel is identified.",
+      "critical_assessment": "This is a useful symmetry-method paper but a weak direct match. Its strongest contribution is the explicit multipole tensor organization and the connection between bulk current and edge accumulation. Applying that machinery to second-order photocurrent is a proposed use, not something demonstrated here. It ranks below ZPAN because the latter supplies direct nonlinear-optics measurements and explicit polar-crystal evidence, while this paper's response is linear and magnetic-multipole-specific."
     },
     {
       "id": "http://arxiv.org/abs/2607.13559v2",
@@ -223,7 +238,13 @@
       "topological_invariants": [
         "Weyl-node chirality and separation"
       ],
-      "noncentrosymmetry_evidence": "A polar Weyl-ferromagnet model is explicit, but no specific bulk material is established as both topological and noncentrosymmetric in the abstract."
+      "noncentrosymmetry_evidence": "A polar Weyl-ferromagnet model is explicit, but no specific bulk material is established as both topological and noncentrosymmetric in the abstract.",
+      "relevance_rank": 6,
+      "evidence_basis": "Two-band theory separating relaxation-time-dependent intraband and Weyl-node-separation-dependent interband magnetoelectric induction.",
+      "key_strength": "It cleanly separates kinetic and interband geometric contributions in a Weyl response.",
+      "key_limitation": "Emergent induction from magnetization dynamics is not a photovoltaic theory and the polar Weyl model is not a demonstrated material realization.",
+      "critical_assessment": "The intraband/interband separation is a useful analogy for distinguishing scattering-sensitive and intrinsic response channels, so the paper can inform model design. But analogy is the extent of the connection: the calculation concerns emergent induction driven by magnetic dynamics, not light-induced charge current. The supplied abstract also does not establish a specific bulk material with all desired properties. It is therefore the lowest-ranked retained paper and should be read for methodology, not as evidence of a topological photovoltaic mechanism."
     }
-  ]
+  ],
+  "ranking_basis": "Ranks prioritize direct target-phenomenon evidence, then mechanism/invariant specificity, then transfer value; limitations break ties."
 }
