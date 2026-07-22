@@ -479,3 +479,29 @@ h1, h2 {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+
+.rank-chip { color: var(--gold); font-size: .72rem; font-weight: 760; letter-spacing: .04em; }
+.critical-block { padding: 16px; border: 1px solid rgba(242,155,165,.25); border-radius: 12px; background: rgba(242,155,165,.06); }
+.critical-block .summary-label { color: var(--rose); }
+.paper-critical { margin: 0; color: var(--paper-soft); font-size: .9rem; line-height: 1.68; }
+.archive-main { padding-bottom: 80px; }
+.archive-hero { padding-bottom: 54px; }
+.archive-list { padding: 0 0 60px; }
+.archive-items { display: grid; gap: 24px; }
+.archive-card { padding: clamp(22px, 3vw, 36px); border: 1px solid var(--border); border-radius: var(--radius); background: linear-gradient(145deg, rgba(18,34,64,.88), rgba(11,23,45,.96)); }
+.archive-card-head { display: flex; justify-content: space-between; align-items: end; gap: 24px; padding-bottom: 22px; border-bottom: 1px solid var(--border); }
+.archive-card-head h3 { margin: 0; font-family: Georgia, serif; font-size: clamp(1.6rem, 3vw, 2.5rem); font-weight: 500; line-height: 1.1; }
+.archive-meta { display: flex; flex-wrap: wrap; justify-content: end; gap: 10px 18px; color: var(--muted); font-size: .78rem; }
+.archive-paper-list { display: grid; gap: 0; }
+.archive-paper { padding: 24px 0; border-bottom: 1px solid var(--border); }
+.archive-paper:last-child { border-bottom: 0; padding-bottom: 0; }
+.archive-paper-kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; color: var(--muted); font-size: .75rem; }
+.archive-paper h4 { margin: 9px 0 7px; font-family: Georgia, serif; font-size: 1.35rem; font-weight: 500; line-height: 1.2; }
+.archive-paper > p { margin: 0; color: var(--paper-soft); font-size: .9rem; }
+.archive-critical { margin-top: 14px; padding-left: 14px; border-left: 2px solid var(--rose); }
+.archive-critical span { color: var(--rose); font-size: .68rem; font-weight: 760; letter-spacing: .12em; text-transform: uppercase; }
+.archive-critical p { margin: 4px 0 0; color: var(--paper-soft); font-size: .88rem; line-height: 1.65; }
+@media (max-width: 680px) {
+  .archive-card-head { align-items: flex-start; flex-direction: column; }
+  .archive-meta { justify-content: start; }
+}
