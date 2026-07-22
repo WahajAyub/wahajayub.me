@@ -108,7 +108,9 @@ Update the following files on `main` through the connected GitHub app:
 
 1. Replace `data/papers.json` with the weekly issue.
 2. Create `archive/YYYY-MM-DD.json` with the same issue.
-3. Replace `feed.xml` with a valid RSS 2.0 representation.
+3. Update `archive/index.json` by preserving existing entries and adding the new
+   archive date, label, and path.
+4. Replace `feed.xml` with a valid RSS 2.0 representation.
 4. Add every reviewed candidate ID to `data/seen.json`, preserving existing IDs.
 
 Use UTF-8, valid JSON, and XML-escaped RSS content. Preserve the full issue
