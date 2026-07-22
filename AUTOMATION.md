@@ -101,6 +101,9 @@ For every selected paper write:
 Never invent a symmetry, invariant, material property, result, or mechanism.
 Do not convert a plausible application into an established result. Explicitly
 label speculation, missing evidence, and indirect relevance.
+For the critical-assessment pass, use GPT-5.6 Sol when model routing is
+available. If Sol is unavailable, report that limitation rather than silently
+presenting another model's assessment as Sol's.
 
 ## Publication
 
