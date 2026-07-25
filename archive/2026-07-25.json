@@ -1,0 +1,247 @@
+{
+  "updated_at": "2026-07-25T23:06:23Z",
+  "edition_label": "Week of July 27, 2026",
+  "edition_type": "weekly",
+  "topic": "Topological photovoltaics and mathematical condensed matter",
+  "items": [
+    {
+      "id": "doi:10.1002/advs.76653",
+      "source": "Advanced Science",
+      "title": "Exploiting Bulk Photovoltaic Effect in a Polar Hybrid Perovskite Towards Self‐Powered Detection of Weak Ultraviolet Polarized Light",
+      "authors": [
+        "Xinyuan Zhang",
+        "Jianbo Wu",
+        "Wai‐Yeung Wong"
+      ],
+      "published": "2026-07-23",
+      "url": "https://doi.org/10.1002/advs.76653",
+      "pdf_url": "",
+      "categories": [
+        "topological_photovoltaics",
+        "noncentrosymmetric_materials",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "bulk photovoltaic effect",
+        "polar hybrid perovskite",
+        "polarized ultraviolet detection"
+      ],
+      "highlight": true,
+      "highlight_label": "Direct polar BPVE device",
+      "research_relevance_score": 9,
+      "tldr": "A polar (4-AMP)PbBr4 crystal is used as a self-powered detector whose response is attributed to a strong bulk photovoltaic effect.",
+      "summary": "The paper reports a self-powered ultraviolet photodetector based on the polar hybrid perovskite (4-AMP)PbBr4. The crystal is assigned the polar space group Pca21 and its spontaneous polarization is presented as the driving force for separating and transporting photocarriers. The device shows sub-pA dark current, polarization-sensitive response, and an anisotropy ratio of 8 at 1 µW/cm²; at 60 nW/cm² the ratio remains 1.8. These measurements establish a concrete polar-crystal device platform for weak-light detection. The supplied abstract does not resolve whether the measured dc response is shift, injection, ballistic, contact-assisted, excitation, or recombination dominated.",
+      "research_relevance": "This is the most direct new BPVE lead because it combines explicit bulk polarity with a reported zero-bias device function and polarization dependence. The material offers a realistic benchmark for asking how spontaneous polarization, optical selection rules, and carrier extraction affect a measured photocurrent. It is especially useful for separating a device-level BPVE claim from a microscopic assignment to intrinsic shift or injection current.",
+      "potential_use": "Use (4-AMP)PbBr4 as a benchmark material for mechanism-resolved polarization-dependent BPVE calculations; this proposed use is speculative.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "bulk photovoltaic effect; microscopic channel unresolved"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The supplied abstract explicitly gives polar space group Pca21 and spontaneous polarization.",
+      "relevance_rank": 1,
+      "evidence_basis": "Polar Pca21 crystal, spontaneous polarization, self-powered detector, and quantitative weak-UV polarization response are stated in the supplied abstract.",
+      "key_strength": "It supplies direct device-level BPVE evidence in an explicitly polar bulk crystal.",
+      "key_limitation": "The abstract does not identify the microscopic photocurrent channel or exclude contact and carrier-transport contributions.",
+      "critical_assessment": "This is the strongest candidate because the supplied abstract joins explicit bulk polarity to a quantitative self-powered photodetector response at very weak UV intensity. The result is still a device-level BPVE attribution, not a mechanism-resolved nonlinear-conductivity calculation: no shift-vector, injection, ballistic, impurity, contact, or recombination analysis is reported. The polarization anisotropy is promising but could combine crystal optics with collection dynamics. The paper therefore provides an excellent experimental benchmark and material lead, while the microscopic origin of the dc current remains the key uncertainty."
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.20702v1",
+      "source": "arXiv",
+      "title": "High Order Geometric Channels for Nonlinear Transport in Bloch Bands",
+      "authors": [
+        "Sami Farrag",
+        "Eugene Mele",
+        "Tony Low"
+      ],
+      "published": "2026-07-22",
+      "url": "https://arxiv.org/abs/2607.20702v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.20702v1",
+      "categories": [
+        "quantum_geometry",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "Bargmann trace",
+        "higher quantum geometry",
+        "third-order response"
+      ],
+      "highlight": true,
+      "highlight_label": "Higher quantum-geometric response",
+      "research_relevance_score": 9,
+      "tldr": "A Bargmann-trace hierarchy extends quantum geometry beyond the quantum metric and isolates a coherent geometric sector of third-order electric-field response.",
+      "summary": "The authors develop a geometric perturbation theory for Bloch states coupled through the interband Berry connection. A gauge-invariant Bargmann trace generates a hierarchy Q^(N) of geometric objects, with the quantum geometric tensor as the first member and higher terms encoding multiband information beyond the quantum metric and Berry curvature. Connected amplitudes organize vertex-order corrections, while strict-order terms factor into disconnected products. For a uniform electric field, the work identifies a fully coherent, purely geometric sector of the third-order response. The abstract establishes a formal nonlinear-response framework, but it does not report a dc bulk-photovoltaic calculation, material application, or relaxation-dependent current.",
+      "research_relevance": "This is a strong methodological lead for the profile's quantum-geometry program. The Q^(N) hierarchy could provide a systematic language for testing whether higher multiband geometric structures enter nonlinear optical response beyond conventional Berry-curvature and quantum-metric terms. The clean separation of connected and disconnected contributions may also help prevent conflating intrinsic interband response with scattering or relaxation channels in future photocurrent calculations.",
+      "potential_use": "Adapt the Q^(N) hierarchy to a second-order optical calculation and test which terms survive in a noncentrosymmetric band model; this is speculative.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "coherent geometric third-order response"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "No bulk noncentrosymmetry or material symmetry is established in the supplied abstract.",
+      "relevance_rank": 2,
+      "evidence_basis": "Gauge-invariant Bargmann-trace hierarchy and coherent purely geometric third-order response under a uniform electric field.",
+      "key_strength": "It gives a concrete, gauge-invariant extension of quantum geometry to higher multiband response order.",
+      "key_limitation": "The supplied result is third-order and formal; it does not establish a second-order dc photocurrent mechanism.",
+      "critical_assessment": "The paper is valuable because it offers an explicit hierarchy rather than another broad claim that quantum geometry matters. Its relevance to BPVE is nevertheless a transfer problem: the reported sector is third-order, fully coherent, and formulated for a uniform field, whereas dc photocurrent requires a frequency-dependent second-order response with dissipation, occupations, and often relaxation. The abstract gives no noncentrosymmetric material or symmetry analysis. It should therefore guide formalism development, not be cited as evidence that higher geometric tensors enhance shift or injection current."
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.21581v1",
+      "source": "arXiv",
+      "title": "Symmetry and Quantum Geometry in Bloch Bands",
+      "authors": [
+        "Ziwei Wang",
+        "Charlie Raca",
+        "Steven H. Simon"
+      ],
+      "published": "2026-07-23",
+      "url": "https://arxiv.org/abs/2607.21581v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.21581v1",
+      "categories": [
+        "quantum_geometry",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "orbital embedding",
+        "Berry-curvature variance",
+        "Hofstadter model"
+      ],
+      "highlight": true,
+      "highlight_label": "Embedding-independent quantum geometry",
+      "research_relevance_score": 8,
+      "tldr": "Symmetry constrains the real-space embedding that minimizes Berry-curvature variance and integrated quantum-metric trace in tight-binding models.",
+      "summary": "This work addresses a subtle geometric ambiguity in tight-binding descriptions: common quantum-geometric quantities depend not only on model parameters but also on the real-space orbital embedding. The authors define geometry-independent minima of Berry-curvature variance and of the integrated trace of the quantum metric, then show that when a model respects specified spatial symmetries, an embedding that attains the minimum must respect those symmetries as well. They extend the argument to magnetic translations and composite symmetries, with implications for Hofstadter models. The supplied abstract establishes a symmetry theorem for quantum-geometric optimization, not a nonlinear optical or photovoltaic response.",
+      "research_relevance": "The result is relevant to reliable quantum-geometric input for response calculations. If orbital embedding changes the metric and curvature measures used to compare candidate models, the symmetry-constrained minimum offers a principled reference that may distinguish physical geometric structure from representation choices. This could sharpen comparisons of Berry-geometry bounds in shift-current, injection-current, or multiband models, although the connection to those observables remains to be worked out.",
+      "potential_use": "Use the symmetry-constrained minimization as a diagnostic when comparing tight-binding embeddings before computing nonlinear optical tensors; this is a proposed methodological use.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [],
+      "topological_invariants": [
+        "Berry curvature variance",
+        "quantum metric trace"
+      ],
+      "noncentrosymmetry_evidence": "No bulk noncentrosymmetry or material platform is established in the supplied abstract.",
+      "relevance_rank": 3,
+      "evidence_basis": "Symmetry theorem for embedding-dependent geometric minima, including magnetic translations and composite symmetries.",
+      "key_strength": "It isolates a representation-sensitive issue that can otherwise contaminate comparisons of quantum geometry.",
+      "key_limitation": "No optical response, photocurrent, or material-specific inversion-breaking consequence is calculated.",
+      "critical_assessment": "The theorem is a useful foundation for quantum-geometry comparisons because it makes the orbital-embedding ambiguity explicit and supplies symmetry constraints on the minimizing geometry. Its photovoltaic relevance is indirect: a minimized metric or curvature variance is not itself a response coefficient, and the abstract does not show that the bound controls shift, injection, or ballistic current. The practical payoff depends on extending the construction to gauge- and embedding-consistent optical matrix elements. It ranks below the response formalism because it clarifies inputs to a calculation rather than deriving a photocurrent channel."
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.19821v1",
+      "source": "arXiv",
+      "title": "Spatially Dispersive Second-Harmonic Generation in Ferroaxial Systems",
+      "authors": [
+        "Takumi Shiro",
+        "Satoru Hayami"
+      ],
+      "published": "2026-07-22",
+      "url": "https://arxiv.org/abs/2607.19821v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.19821v1",
+      "categories": [
+        "nonlinear_transport",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "ferroaxial order",
+        "electric quadrupole",
+        "magnetic dipole"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 8,
+      "tldr": "A gauge-consistent theory shows that electric-quadrupole and magnetic-dipole channels can both be essential in spatially dispersive SHG from ferroaxial order.",
+      "summary": "The paper develops a gauge-consistent microscopic theory of spatially dispersive second-harmonic generation, treating electric-quadrupole and magnetic-dipole processes on equal footing beyond the electric-dipole approximation. Applied to a minimal triangular-cluster model with ferroaxial order related to an electric toroidal dipole, the formulation produces nonlinear optical spectra that track the ferroaxial order parameter. Length- and velocity-gauge calculations agree, supporting the consistency of the treatment. The electric-quadrupole and magnetic-dipole channels can have different spectral weights even at shared resonances, and the magnetic-dipole term can dominate at selected frequencies. The abstract concerns centrosymmetric multipolar order, not dc BPVE.",
+      "research_relevance": "This is directly useful for distinguishing nonlinear optical channels that are often omitted when symmetry suppresses electric-dipole response. The gauge-consistent EQ/MD decomposition could inform calculations of spatially dispersive or multipolar photocurrent in topological and magnetic systems, while the ferroaxial order parameter offers a concrete symmetry variable to correlate with response. Its main value is methodological and diagnostic rather than evidence for a bulk photovoltaic mechanism.",
+      "potential_use": "Use the EQ/MD bookkeeping as a control calculation when electric-dipole selection rules suppress a proposed nonlinear response; this is speculative.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "electric-quadrupole nonlinear optical response",
+        "magnetic-dipole nonlinear optical response"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The supplied abstract explicitly describes a centrosymmetric ferroaxial model, so bulk inversion breaking is not claimed.",
+      "relevance_rank": 4,
+      "evidence_basis": "Gauge-consistent spatially dispersive SHG theory, ferroaxial cluster model, and distinct EQ/MD spectral weights.",
+      "key_strength": "It quantitatively separates electric-quadrupole and magnetic-dipole contributions in a gauge-consistent nonlinear calculation.",
+      "key_limitation": "The response is SHG in a centrosymmetric multipolar model, not a dc photovoltaic current.",
+      "critical_assessment": "The strongest feature is not the ferroaxial example alone but the demonstrated agreement of length- and velocity-gauge formulations while retaining EQ and MD channels. That makes it a useful reference for response calculations where electric-dipole intuition fails. The limitation is decisive for BPVE: SHG polarization in a centrosymmetric model is not transported dc charge, and spatial dispersion changes the symmetry and frequency structure of the problem. No carrier occupations, relaxation, or photocurrent observable is supplied. The paper should guide multipolar optical diagnostics, not be treated as a direct shift-current result."
+    },
+    {
+      "id": "http://arxiv.org/abs/2607.19937v1",
+      "source": "arXiv",
+      "title": "Symmetry-Based Design Rules for Second-Harmonic Generation in Stacked and Twisted MoS2 Bilayers",
+      "authors": [
+        "Sumanti Patra",
+        "Caterina Cocchi"
+      ],
+      "published": "2026-07-22",
+      "url": "https://arxiv.org/abs/2607.19937v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.19937v1",
+      "categories": [
+        "noncentrosymmetric_materials",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "MoS2 bilayers",
+        "second-harmonic generation",
+        "twist angle"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 7,
+      "tldr": "Point-group symmetry maps stacking and twisting in MoS2 bilayers to allowed second-order tensors and a twist-locked SHG polarization pattern.",
+      "summary": "The authors construct a symmetry-based framework for second-harmonic generation in stacked and twisted MoS2 bilayers, covering D3h, D3d, C3v, and C3 point groups. Group-theory predictions are benchmarked against first-principles calculations to show how structural symmetry breaking activates or suppresses individual components of the second-order susceptibility tensor. In twisted configurations with C3 symmetry, an in-plane chi_xxx component produces a rigid azimuthal rotation of the SHG polar lobes, locked to half the structural twist angle and reported to remain frequency-independent across the optical spectrum. The work establishes a nonlinear-optical design rule, not a photovoltaic current.",
+      "research_relevance": "The paper provides a concrete symmetry-to-tensor map in a realistic layered material, useful for constructing noncentrosymmetric controls and for checking whether an optical response is allowed before interpreting it topologically. Its twist-locked angular signature could be adapted as a symmetry diagnostic in shift-current or injection-current studies, while the comparison across centrosymmetric and noncentrosymmetric stackings clarifies what inversion breaking does and does not establish.",
+      "potential_use": "Use twisted MoS2 bilayers as a control family for testing symmetry selection rules before attributing an angular nonlinear signal to topology; this is speculative.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "second-harmonic generation"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The abstract explicitly distinguishes inversion-containing D3d from noncentrosymmetric C3v and C3 configurations.",
+      "relevance_rank": 5,
+      "evidence_basis": "Point-group classification, first-principles benchmarking, and twist-locked SHG tensor signature.",
+      "key_strength": "It links a tunable structural parameter to specific allowed second-order tensor components and an observable angular signature.",
+      "key_limitation": "SHG susceptibility is not a dc BPVE coefficient and no topological invariant or photocurrent is calculated.",
+      "critical_assessment": "This is a good symmetry control because it connects stacking and twist to explicit point groups, tensor components, and a measurable angular pattern. Its relevance must remain bounded: an allowed chi^(2) or strong SHG signal does not establish shift current, injection current, or topological enhancement, and no dc transport or relaxation analysis is reported. The abstract also does not establish a topological phase in the bilayers. The paper earns inclusion for its practical symmetry-selection framework and realistic material family, not as evidence of a photovoltaic mechanism."
+    },
+    {
+      "id": "doi:10.1017/prm.2026.10173",
+      "source": "Proceedings of the Royal Society of Edinburgh: Section A Mathematics",
+      "title": "On the stable Hopf invariant",
+      "authors": [
+        "John R. Klein"
+      ],
+      "published": "2026-07-21",
+      "url": "https://doi.org/10.1017/prm.2026.10173",
+      "pdf_url": "",
+      "categories": [
+        "hopf_topology",
+        "mathematical_condensed_matter"
+      ],
+      "tags": [
+        "stable Hopf invariant",
+        "Cartan formula",
+        "transfer formula"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 7,
+      "tldr": "A simplified treatment of the stable Hopf invariant supplies composition and transfer formulas and examines its uniqueness in equivariant settings.",
+      "summary": "This mathematical paper gives a simplified approach to the stable Hopf invariant. It presents short proofs of the Cartan, composition, and transfer formulas, then extends the discussion to stable categories of pi-spaces when pi is a discrete group. The paper also examines the extent to which the stable Hopf invariant is unique. The supplied abstract contains no band Hamiltonian, material, optical response, or photovoltaic calculation. Its relevance is therefore confined to the mathematical foundations of Hopf-type and stable band classifications rather than a demonstrated condensed-matter observable.",
+      "research_relevance": "Stable Hopf constructions are relevant to the profile's interest in Hopf, unstable, and band-addition-sensitive topology. The composition and transfer formulas may help translate a proposed band map or symmetry-equivariant construction into computable invariant data, especially when comparing stable classifications with fragile or multigap topology. The connection to photocurrent is an open research question: the abstract gives no optical signature or physical realization.",
+      "potential_use": "Consult the formulas when formalizing a stable or equivariant Hopf invariant for a band-classification project; this is a mathematical lead, not an established application.",
+      "confidence": "medium",
+      "photocurrent_mechanisms": [],
+      "topological_invariants": [
+        "stable Hopf invariant"
+      ],
+      "noncentrosymmetry_evidence": "No material or bulk symmetry evidence is supplied.",
+      "relevance_rank": 6,
+      "evidence_basis": "Elementary proofs and equivariant extension of stable Hopf invariant formulas are stated in the supplied abstract.",
+      "key_strength": "It strengthens the computable mathematical toolkit for stable and equivariant Hopf classifications.",
+      "key_limitation": "No condensed-matter model, optical response, or connection to a measurable photocurrent is provided.",
+      "critical_assessment": "This is the weakest retained paper in direct physical relevance, but it is a legitimate mathematical lead because stable Hopf formulas are part of the requested topology frontier. The gap is substantial: no band map, Hamiltonian, material, symmetry, or optical observable is supplied, so one cannot infer a photocurrent consequence or even a specific condensed-matter realization. Its inclusion is justified only as groundwork for invariant calculations that may later enter a band-classification project. It should not compete with the experimental and response-theory papers as evidence about photovoltaic behavior."
+    }
+  ]
+}
