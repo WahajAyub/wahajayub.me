@@ -1,118 +1,74 @@
 {
-  "collected_at": "2026-07-31T15:28:23.758537Z",
+  "collected_at": "2026-08-07T14:18:15.774602Z",
   "window_days": 9,
-  "candidate_count": 14,
+  "candidate_count": 16,
   "research_focus": "Topological photovoltaic and nonlinear-response phenomena in quantum materials, particularly connections among band topology, quantum geometry, disorder and scattering, broken inversion symmetry, and the mathematical classification of delicate or unstable band invariants.\n",
   "candidates": [
     {
-      "id": "http://arxiv.org/abs/2607.28491v1",
+      "id": "http://arxiv.org/abs/2608.04875v1",
       "source": "arXiv",
-      "title": "Drumhead Surface States of Rhombohedral Graphite with Near Ideal Quantum Geometry Condition",
+      "title": "Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions",
       "authors": [
-        "Lin-Lin Wang"
+        "Srijata Lahiri",
+        "Gourab Paul",
+        "Bilal Tanatar",
+        "Saurabh Basu"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.28491v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.28491v1",
-      "abstract": "The ideal quantum geometry (IQG) condition of equal magnitude between quantum metric ($G(k)$) and Berry curvature ($Ω(k)$) as in $|Ω|$/Tr$G$=1 has been associated with realizing fractional Chern insulators for the flat band in few layers of rhombohedral graphene (RG). More recently the IQG condition has also been proposed for superconductivity in the flat band for thick RG layers. Using density functional theory and Wannier functions, we study the symmetry-protected topology of bulk RG, drumhead surface state (DSS) of semi-infinite RG surface, and the IQG condition for thick RG slabs. We find that bulk RG is a weak topological insulator with spin-orbit coupling (SOC), besides being effectively a chiral semimetal with chiral nodal line without SOC. We also find that the DSS flat band of semi-infinite and thick RG slabs have a sizable convex curvature with depth agreeing with the recent angular resolved phono-emission spectroscopy experiment. The calculated IQG also shows a convex shape with the K point at the center having a minimum with approximately $|Ω|$/Tr$G$$\\approx$1. But the inner rim of the DSS region shows the strict IQG condition of $|Ω|$/Tr$G$=1. These results on semi-infinite and thick RG slabs from first-principles calculations provide useful information for the pristine DSS at the single particle level for future studies to consider when many-body interactions and strong correlations will be included.",
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04875v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04875v1",
+      "abstract": "We investigate the linear and nonlinear Hall response of a moiré \\emph{watermill lattice}, in which stacking and twisting generate a four-band manifold near the Fermi level with suppressed group velocities at discrete magic angles. Including an inversion symmetry breaking onsite mass breaks the interlayer symmetry, opening a gap in this manifold and driving the system into a non-trivial bulk topological phase. We map the resulting phase diagram as a function of the strength of the mass and twist angle $θ$, revealing several sectors with high Chern numbers. We then introduce strain to break the residual $C_3$ symmetry of the lattice which activates a finite Berry curvature dipole and correspondingly, a nonlinear Hall response. The dipole reverses sign sharply across topological phase boundaries, producing butterfly like features when plotted against the relevant system parameters. Its magnitude substantially exceeds that reported for symmetry-broken transition metal dichalcogenides, consistent with the elevated Wilson-loop winding and enhanced quantum geometry associated with the lattice's pseudospin-$3/2$ character. We conclude by incorporating thermal effects on the Berry curvature dipole, asserting that it is an important tool for discerning topology at low temperatures.",
       "source_categories": [
-        "cond-mat.mtrl-sci"
+        "cond-mat.mes-hall"
       ],
       "matched_terms": [
-        "quantum metric",
+        "inversion symmetry",
         "quantum geometry",
-        "berry curvature"
+        "berry curvature",
+        "nonlinear hall"
       ],
-      "local_score": 18
+      "local_score": 19
     },
     {
-      "id": "http://arxiv.org/abs/2607.28283v1",
+      "id": "http://arxiv.org/abs/2608.06326v1",
       "source": "arXiv",
-      "title": "Intertwined magnetoresistance and Hall multifunctionality in a non-coplanar magnetic Weyl semimetal DyB4",
+      "title": "Multi-State Geometry of Density Matrices and Rectification Sum Rules",
       "authors": [
-        "Long Chen",
-        "Yulin Shen",
-        "Songxue Chi",
-        "Seunghoon Song",
-        "Yang Zhang",
-        "Jian Liu",
-        "Haidong Zhou"
+        "Barry Bradlyn"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.28283v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.28283v1",
-      "abstract": "Anomalous magneto-transport responses provide complementary probes of orbital motion, momentum-space topology, and real-space spin chirality, yet their integration into a single material remains rare because their underlying requirements often compete. A promising materials-design strategy is to realize a magnetic Weyl semimetal that combines linearly dispersive high-mobility bands with tunable non-coplanar magnetism while limiting spin-dependent scattering. Here we identify DyB4, a frustrated rare-earth tetraboride, as a magnetic Weyl semimetal candidate that embodies this strategy and hosts intertwined magnetoresistance and Hall multifunctionality. Neutron diffraction reveals a sequence of field-tunable magnetic states, including non-coplanar spin configurations and PT-symmetry-broken phases. First-principles calculations identify steep linear dispersions and field-induced Weyl points near the Fermi level. Magneto-transport measurements establish a rare fourfold combination of extremely large magnetoresistance, chiral-anomaly-like negative magnetoresistance, large anomalous Hall conductivity arising from cooperative intrinsic Berry curvature and skew scattering, and scalar-spin-chirality-driven topological Hall responses. This multifunctionality arises from the distinct yet weakly coupled roles of itinerant carriers and localized 4f moments, which enable high-mobility transport, field-induced Weyl topology, and non-coplanar magnetism. DyB4 therefore provides a 4f-electron platform for correlating orbital transport, momentum-space Berry curvature, and real-space spin chirality, suggesting a route toward multifunctional magnetic topological materials.",
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.06326v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06326v1",
+      "abstract": "The geometry of quantum states has emerged as a key ingredient in understanding the linear and nonlinear responses of quantum materials. To date, however, the connection between geometry and nonlinear response is best understood for clean, noninteracting systems at zero temperature. In this work, we develop a theory of multi-state geometry for density matrices and use it to derive sum rules for second-order rectification, making no assumptions about the strength of disorder or interactions. We first show that perturbation theory for thermal density matrices gives rise to two dual information-theoretic connections and an almost complex structure. We introduce a complex, quantum generalization of the Amari-Chentsov tensor of classical information theory, the cQAC tensor, which captures the multi-state geometry of the perturbed density matrix. We derive a zero-temperature sum rule for the frequency-integrated DC rectification response of an insulator as a difference between a ground state third cumulant and the complex distortion tensor, a multi-state geometric quantity built from the cQAC tensor. This generalizes known single-particle sum rules for the shift and nonlinear Hall currents to many-body systems and general perturbations. Specializing to the shift current, we resolve the geometric contribution for multiband insulators into particle-like and hole-like terms. We verify the sum rule numerically in a generalized Kane-Mele model, finding that the geometric contribution can dominate the integrated response. Finally, we show that although the splitting of the sum rule into cumulant and geometric contributions does not survive at nonzero temperature, the measured sum rule for insulators differs from its zero-temperature form by corrections exponentially small in the gap, allowing low-temperature rectification measurements to probe the multi-state geometry of insulators.",
       "source_categories": [
-        "cond-mat.mtrl-sci",
-        "cond-mat.str-el"
+        "cond-mat.mes-hall",
+        "cond-mat.str-el",
+        "quant-ph"
       ],
       "matched_terms": [
-        "berry curvature",
-        "weyl semimetal",
-        "topological material"
+        "shift current",
+        "nonlinear hall"
       ],
-      "local_score": 11
+      "local_score": 12
     },
     {
-      "id": "doi:10.21468/scipostphys.21.1.023",
-      "source": "SciPost Physics",
-      "title": "3D magnetic textures with mixed topology: Unlocking the tunable Hopf index",
+      "id": "doi:10.1038/s42005-026-02800-7",
+      "source": "Communications Physics",
+      "title": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
       "authors": [
-        "Maria Azhar",
-        "Sandra C. Shaju",
-        "Ross Knapman",
-        "Alessandro Pignedoli",
-        "Karin Everschor-Sitte"
+        "Myungjun Kang",
+        "Yogeshwar Prasad",
+        "Nikhil Danny Babu",
+        "Rasoul Ghadimi",
+        "Jae Hoon Kim",
+        "Sangmo Cheon"
       ],
-      "published": "2026-07-28",
-      "url": "https://doi.org/10.21468/scipostphys.21.1.023",
+      "published": "2026-08-06",
+      "url": "https://doi.org/10.1038/s42005-026-02800-7",
       "pdf_url": "",
-      "abstract": "Knots and links play a crucial role in understanding topology and discreteness in nature. In magnetic systems, twisted, knotted and braided vortex tubes manifest as Skyrmions, Hopfions, or screw dislocations. These complex textures are characterized by topologically non-trivial quantities, such as a Skyrmion number, a generalized Hopf index H H , a Burgers vector (quantified by an integer \\nu ν ), and linking numbers. In this work, we introduce a discrete geometric formulation of H H for periodic magnetic textures, expressed in terms of the self-linking and inter-linking of flux tubes of the emergent magnetic field. For configurations with cuniform boundary conditions, this formulation reproduces the standard integer-valued Hopf invariant classified by \\pi_3(S^2) π 3 ( S 2 ) . For textures embedded in non-uniform backgrounds, where compactification to S^3 S 3 is not possible, the same flux-linking invariant provides a boundary-condition-dependent extension that can assume non-integer values while remaining constant under boundary-preserving deformations. We interpret such configurations as states of “mixed topology”, continuously connected to integer Hopf sectors when the background becomes uniform. Our results establish a unified geometric framework for characterizing three-dimensional magnetic textures beyond the compactified homotopy setting.",
+      "abstract": "Abstract Topological-insulator-superconductor (TI-SC) heterostructures provide a promising platform for proximity-induced topological superconductivity, but diagnosing superconductivity at a buried interface remains challenging for conventional surface-sensitive probes. Here, we develop a quantitative theory of the longitudinal optical response of a TI-SC heterostructure and show that the complex sheet conductance provides an interface-selective route to isolating and diagnosing the buried proximitized interface state. Starting from a minimal model, we derive a low-energy description of the heterointerface in which the induced gap emerges directly from the TI-SC coupling. Combined with a slab-based thickness-extrapolation procedure, this framework yields a practical protocol for separating the buried interfacial sheet conductance from bulk and exposed-surface optical contributions. The extracted interface response exhibits a robust, thickness-independent coherence peak at an energy set by the proximity-induced gap, clearly distinguishable from both the pair-breaking scale of the parent superconductor and the Dirac cone on the exposed TI surface. At low energies, the heterointerface is described by an effective time-reversal-invariant topological-superconducting theory, while the associated low-frequency optical spectral weight admits a quantum-geometric interpretation through the optical sum rule. Our results establish terahertz/infrared spectroscopy of thickness-extracted sheet conductance as a noninvasive route to identifying and quantifying proximity-induced superconductivity at buried TI-SC interfaces.",
       "source_categories": [
         "journal-article"
-      ],
-      "matched_terms": [
-        "hopf invariant"
-      ],
-      "local_score": 9
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.28613v1",
-      "source": "arXiv",
-      "title": "Lattice composite Fermi liquid with broken inversion symmetry",
-      "authors": [
-        "Pavel A. Nosov",
-        "Zhengyan Darius Shi"
-      ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.28613v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.28613v1",
-      "abstract": "We study transport in lattice composite Fermi liquids realized in half-filled Chern bands with broken inversion symmetry. We show that reduced crystalline symmetry exposes intrinsic singular dynamical responses of composite fermions that are otherwise hidden in the conventional Landau-level setting. At zero wave vector, inversion breaking allows gauge-field fluctuations to generate a non-analytic longitudinal optical resistivity, with $\\operatorname{Re}ρ^{xx}(ω)\\sim |ω|^{4/3}$ for gate-screened Coulomb interactions. At finite wave vector $\\mathbf{q}$, inversion breaking leads to nonreciprocal transport and a non-analytic $\\sim |\\mathbf{q}|$ dependence of the Hall conductivity, both of which can be probed through surface acoustic wave propagation. We also discuss a distinct mechanism for singular DC transport in lattice composite Fermi liquids: renormalization of $2k_F$ scattering at the composite Fermi surface enhances Umklapp relaxation and can lead to a non-analytic temperature dependence of the resistivity. Taken together, our results identify transport signatures of lattice composite Fermi liquids that are absent in their continuum quantum Hall counterparts and can be directly tested in ongoing experiments on twisted MoTe$_2$ and rhombohedral graphene, where evidence for zero-field composite Fermi liquids has recently been reported.",
-      "source_categories": [
-        "cond-mat.str-el",
-        "cond-mat.mes-hall",
-        "cond-mat.stat-mech"
-      ],
-      "matched_terms": [
-        "broken inversion",
-        "inversion symmetry"
-      ],
-      "local_score": 7
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.27200v1",
-      "source": "arXiv",
-      "title": "Quantum-Geometric Raman Response in Multiorbital Flat-Band Systems",
-      "authors": [
-        "Wai Ting Tai",
-        "Martin Claassen"
-      ],
-      "published": "2026-07-29",
-      "url": "http://arxiv.org/abs/2607.27200v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.27200v1",
-      "abstract": "Flat-band materials host rich collective phenomena, yet a complete theory of their signatures in inelastic light scattering remains lacking. While naive theories of interacting flat bands would predict that Raman scattering vertices vanish identically in the limit of vanishing dispersion, we show that this picture is incomplete upon including the multiorbital character of such systems. We show that virtual interband processes generate a finite subgap Raman vertex controlled by the quantum geometric tensor even in the strict flat-band limit. We develop a systematic perturbative theory for Raman scattering from flat bands in the limit where the photon energy is far from resonance with interband transitions. Treating interband Coulomb scattering and light-matter coupling on equal footing, we decompose the Raman scattering vertices into an interaction-independent geometric term expressible directly in terms of the quantum geometric tensor, together with effective resonant and non-resonant pieces generated by virtual interband Coulomb scattering. We then study the polarization-resolved Raman response from collective excitations of an interacting flat band with nontrivial quantum geometry, and demonstrate quantitative agreement of our framework with a full multi-orbital calculation at large photon detuning from interband transitions. These results establish quantum geometry as an intrinsic contribution to inelastic light scattering in flat-band systems, and suggest polarization-resolved Raman spectroscopy as a quantum geometry-sensitive probe of the collective excitations of correlated flat-band platforms.",
-      "source_categories": [
-        "cond-mat.str-el"
       ],
       "matched_terms": [
         "quantum geometry"
@@ -120,24 +76,44 @@
       "local_score": 7
     },
     {
-      "id": "http://arxiv.org/abs/2607.27086v1",
+      "id": "http://arxiv.org/abs/2608.05308v1",
       "source": "arXiv",
-      "title": "Angular Momentum Transfer in Magnetic Weyl Semimetal Spheres",
+      "title": "Topological Charge-Transfer Excitons",
       "authors": [
-        "Adriano Biondo",
-        "Francesco M. D. Pellegrino"
+        "Huiyuan Zheng",
+        "Kaijie Yang",
+        "Ting Cao",
+        "Di Xiao"
       ],
-      "published": "2026-07-29",
-      "url": "http://arxiv.org/abs/2607.27086v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.27086v1",
-      "abstract": "In this work, we investigate the problem of electromagnetic angular momentum within the framework of topological materials, described by axion electrodynamics. Specifically, we calculate the electromagnetic angular momentum for a spherical sample of magnetic Weyl semimetal in the presence of a point charge. We then analyze how, by moving the point charge quasi-statically, the angular momentum stored in the electromagnetic field can be converted into mechanical angular momentum of the sphere. Finally, we derive analytical expressions for the resulting angular velocity and angular displacement, demonstrating that the effect is enhanced in the Weyl semimetal compared with a topological insulator.",
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.05308v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05308v1",
+      "abstract": "Excitons possess internal structure absent from single-particle Bloch particles, allowing their band topology to emerge from the bound-state structure rather than being inherited from their constituents. This raises the question of how the internal structure of a bound state can provide a microscopic origin of exciton topology. Here we show that the real-space embedding of charge-transfer excitons can generate an intrinsic manifold of symmetry-related off-site composite orbitals whose coupling supports topological exciton bands. Lateral electron-hole separation embeds the localized exciton on the bond connecting its constituent sites rather than on either site. We demonstrate this mechanism in a honeycomb lattice, where three bond-centered charge-transfer exciton orbitals form a Kagome lattice. By solving the Bethe-Salpeter equation, we show that this emergent multi-orbital manifold supports a topological exciton flat band upon time-reversal symmetry breaking, even when the electron and hole bands are topologically trivial. The resulting band exhibits nearly uniformly distributed quantum geometry, favorable for interaction-driven bosonic states. Our results establish a general route toward topological bands of localized composite bound states and unconventional strongly correlated bosonic phases.",
       "source_categories": [
-        "cond-mat.mes-hall",
-        "cond-mat.mtrl-sci"
+        "cond-mat.mes-hall"
       ],
       "matched_terms": [
-        "weyl semimetal",
-        "topological material"
+        "quantum geometry"
+      ],
+      "local_score": 7
+    },
+    {
+      "id": "doi:10.1007/jhep08(2026)007",
+      "source": "Journal of High Energy Physics",
+      "title": "Quantum geometry from area fluctuations",
+      "authors": [
+        "Jerzy Kowalski-Glikman",
+        "Ludovic Varrin"
+      ],
+      "published": "2026-08-03",
+      "url": "https://doi.org/10.1007/jhep08(2026)007",
+      "pdf_url": "",
+      "abstract": "A bstract We construct a quantum-statistical analogue of Einstein’s fluctuation argument for black-body radiation in the context of causal-diamond geometry. Starting from the phase space of a stretched horizon inside a Minkowski causal diamond, we quantize the Poisson algebra generated by the fields averaged over stretched-horizon time. We then compute the fluctuations of the averaged area density of the transverse two-spheres in a thermal state constructed in analogue with the black-body thermal state. In the null limit, where the stretched horizon approaches the causal-diamond boundary, this yields a thermal fluctuation formula of the boundary area operator that contains two terms, in direct analogue with the black-body radiation. The term quadratic in the expectation value is the “classical” contribution, while the linear term has the Verlinde-Zurek scaling characteristic of independent microscopic constituents. In direct analogue with Einstein’s interpretation of black-body energy fluctuations as evidence for light quanta, we interpret the linear area-fluctuation term as a statistical signature of discrete quanta of geometry. This provides bottom-up evidence for quantum area degrees of freedom and supports the embadon picture of null quantum geometry.",
+      "source_categories": [
+        "journal-article"
+      ],
+      "matched_terms": [
+        "quantum geometry"
       ],
       "local_score": 7
     },
@@ -166,65 +142,168 @@
       "local_score": 7
     },
     {
-      "id": "http://arxiv.org/abs/2607.27848v1",
+      "id": "http://arxiv.org/abs/2608.05709v1",
       "source": "arXiv",
-      "title": "Giant nonlinear Hall effect in a Pt/ferrimagnetic insulator bilayer under Zeeman-exchange frustration",
+      "title": "Helical-to-Fan Transitions under Magnetic Fields in the Noncentrosymmetric Tetragonal Magnet EuRhGe$_3$",
       "authors": [
-        "Takayuki Shiino",
-        "Matteo Fettizio",
-        "Weronika Janus",
-        "Can Onur Avci"
+        "Takeshi Matsumura",
+        "Hiroto Nitta",
+        "Hironori Nakao",
+        "Masashi Kakihana",
+        "Masato Hedo",
+        "Takao Nakama",
+        "Yoshichika Ōnuki"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.27848v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.27848v1",
-      "abstract": "Competing magnetic interactions can create metastable or unstable states and render magnetic systems highly susceptible to external perturbations. Here we show that Zeeman-exchange frustration in an Al-substituted terbium iron garnet with a compositional gradient across its thickness gives rise to a giant nonlinear Hall response in an adjacent Pt layer. Near magnetic compensation, a field-induced spin-flip transition is accompanied by unusually large higher-order odd harmonic voltages, with the third, fifth, and seventh harmonics reaching amplitudes comparable to that of the first harmonic. The field, temperature, and current dependences collectively identify Joule heating as the parametric drive of the harmonic response. Macrospin-chain simulations further show that current-induced thermal modulation periodically switches the interfacial Fe magnetization between exchange- and Zeeman-dominated states and reproduces the observed harmonic signals. These results demonstrate how frustration can convert a weak thermal perturbation into a large nonlinear electrical response, providing a route to nonlinear magnetotransport in compensated ferrimagnets.",
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.05709v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05709v1",
+      "abstract": "The magnetic structure of EuRhGe$_3$, a noncentrosymmetric body-centered tetragonal magnet with the space group $I4mm$, has been investigated by resonant X-ray diffraction. Below $T_{\\text{N}}=12$ K, EuRhGe$_3$ undergoes a helical magnetic ordering with an incommensurate propagation vector $q=(0, 0, 0.809)$, in which the magnetic moments lie in the $ab$ plane and rotate by a constant turn angle of $145.8^{\\circ}$ between adjacent layers. When a magnetic field is applied along the $a$ axis at 2 K, a second-harmonic $2q$ peak develops, indicating that the circular helix is gradually distorted into a helimagnetic soliton-lattice state, which eventually undergoes a lock-in transition to the commensurate structure with $q=0.8$ at 3.8 T. Above the subsequent phase boundary at 5 T, the helicity is lost, and a spin-flop $xyz$-fan (elliptic conical) state is realized, in which the moments oscillate predominantly along the $b$ axis but are accompanied by a small $c$-axis component. At higher fields, the system enters a conventional planar $xy$-fan phase without a $c$-axis component. EuRhGe$_3$ provides a prototypical example of a helimagnet that exhibits a full sequence of field-induced structures, evolving from a circular helix to a spin-flop $xyz$-fan (elliptic conical), and finally to a planar $xy$-fan structure, which has been theoretically predicted.",
+      "source_categories": [
+        "cond-mat.str-el",
+        "cond-mat.mtrl-sci"
+      ],
+      "matched_terms": [
+        "noncentrosymmetric"
+      ],
+      "local_score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.04555v1",
+      "source": "arXiv",
+      "title": "Photogalvanic second harmonic generation in Si3N4 for 1 Hz level on-chip metrology and spectroscopy",
+      "authors": [
+        "Andrei Diakonov",
+        "Roy Zektzer",
+        "Xiyuan Lu",
+        "Kartik Srinivasan",
+        "Liron Stern"
+      ],
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04555v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04555v1",
+      "abstract": "The coherent photogalvanic (PG) effect induces an effective $χ^{(2)}$ nonlinearity in natively $χ^{(3)}$ silicon nitride integrated photonics, unlocking pathways toward chip-scale precision spectroscopy and optical clockworks via second harmonic generation (SHG). While quasi-phase-matched PG-SHG using spatially varying internal electric fields offers tuning flexibility, it is often accompanied by pump-power- and detuning-dependent frequency offsets. Here, we investigate whether direct phase-matching---utilizing an intermodal scheme that generates a spatially uniform electric field---can support metrologically compatible SHG. By comparing the fundamental and doubled optical frequencies in a silicon nitride microresonator, we test the preservation of the (2:1) frequency ratio in directly phase-matched PG-SHG. We observe a frequency offset of $< 1\\mathrm{~Hz}$, contrasting with previous limitations in quasi-phase-matched configurations. Furthermore, we measure a residual fractional frequency instability of $2\\times 10^{-15}$ at $1\\mathrm{~s}$, averaging down to the $10^{-16}$ level at $1000\\mathrm{~s}$, with multi-hour deviations remaining below $1\\mathrm{~Hz}$. These results establish directly phase-matched PG-SHG as a robust, metrologically compatible route to effective $χ^{(2)}$ functionality, combining sub-Hz frequency-ratio fidelity and high coherence on a mature integrated platform for optical clockworks, self-referencing, and precision spectroscopy.",
+      "source_categories": [
+        "physics.optics",
+        "physics.app-ph"
+      ],
+      "matched_terms": [
+        "photogalvanic"
+      ],
+      "local_score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.06217v1",
+      "source": "arXiv",
+      "title": "Unconventional Scaling of Electric Hall Effect in Magnetic Weyl Semimetals",
+      "authors": [
+        "Chaoxi Cui",
+        "Yilin Han",
+        "Run-Wu Zhang",
+        "Zhi-Ming Yu",
+        "Yugui Yao"
+      ],
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.06217v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06217v1",
+      "abstract": "Electric Hall Effect (EHE), a unique phenomenon in two-dimensional (2D) magnetic systems, refers to the generation of Hall current by an out-of-plane electric field $\\Ez$. Here, we demonstrate that for 2D magnetic Weyl semimetals that host doubly degenerate nodal points, the EHE features multiple unconventional scaling laws. At zero temperature, the EHE exhibits a topological $E_F^{-1}$ Fermi-energy scaling. Remarkably, the prefactor of the scaling is determined by the global topological charge of the point without any dependence on the local parameters of the system, leading to a universal and significant enhancement of Hall response in any species of Weyl points as the Fermi energy approaches the Weyl point. This significant response enables a weak electric field to be directly converted into a measurable Hall signal. Surprisingly, this enhanced Hall response is not diminished by temperature, but evolves into an unconventional logarithmically corrected scaling at finite temperature $σ_{xy}\\propto\\Ez\\ln(1/|\\Ez|)$ for weak $\\Ez$, still yielding a divergent electric-field susceptibility. Thus, our work not only unveils intriguing scaling laws resulting from the interaction between magnetism and topology, but also suggests a novel scaling-enhanced and temperature-robust mechanism that may enable weak electric-field sensing through a practical and all-electric route.",
       "source_categories": [
         "cond-mat.mes-hall",
         "cond-mat.mtrl-sci"
       ],
       "matched_terms": [
-        "nonlinear hall"
+        "weyl semimetal"
       ],
-      "local_score": 5
+      "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2607.27625v1",
+      "id": "http://arxiv.org/abs/2608.04998v1",
       "source": "arXiv",
-      "title": "Physics to Circuit Analysis of GaN RF Integrated Circuits versus GaAs and Silicon",
+      "title": "Accessing Chern Numbers From Bloch Eigenstates Singularities",
       "authors": [
-        "Harkirat Kaur",
-        "Palak Kapoor",
-        "Rajesh Vedala"
+        "Rajesh Asapanna",
+        "Rabih El Sokhen",
+        "Paolo Aceto",
+        "Patrick Popescu-Pampu",
+        "Martin Guillot",
+        "Jacqueline Bloch",
+        "Sylvain Ravets",
+        "Clément Hainaut",
+        "Alberto Amo",
+        "Pierre Delplace"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.27625v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.27625v1",
-      "abstract": "The migration of radio-frequency (RF) integrated-circuit platforms from silicon to GaAs and now to gallium nitride is derived here from first principles. The hexagonal non-centrosymmetric GaN lattice admits a macroscopic polarization; elasticity and the piezoelectric tensor fix the bound sheet charge at an AlGaN/GaN interface, and Poisson's equation with triangular-well quantisation yields a degenerate quasi-two-dimensional channel of ~10^13 cm^-2 with no doping. Energy-momentum conservation for pair creation and phonon-limited energy relaxation set the breakdown field (3.3 MV/cm) and saturation velocity (2.5 x 10^7 cm/s), which combine into geometry-free limits V_brf_T = E_cv_sat/(2pi) and R_on^sp = 4V_br^2/(muepsilonE_c^3). These limits are mapped onto the low-noise amplifier, power amplifier, and switch/phase-shifter functions of a transmit/receive front end and quantified by a MATLAB device-physics model comparing GaN, GaAs, and Si up to 90 GHz. The purpose of this framework and its simulations is to identify which material platform offers the best performance at millimeter-wave frequency signals.",
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04998v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04998v1",
+      "abstract": "We propose two methods to extract the Chern numbers of the Bloch bands of a two dimensional insulator, and apply them to a photonic lattice experiment. These two methods require the knowledge of the complex-valued components of the Bloch eigenvectors, or their ratios. Unlike other tomography methods relying on the approximate reconstruction of the Berry curvature and its integration over the Brillouin zone, our methods boil down to the observation of phase vorticities in the eigensates structure. Those measurements, robust to experimental noise, yield exactly quantized values. One of the two methods exploits the non-normalization of the eigenmodes, making it particularly relevant for classical wave systems.",
       "source_categories": [
-        "cond-mat.mtrl-sci",
-        "eess.SP",
-        "eess.SY"
+        "cond-mat.mes-hall"
       ],
       "matched_terms": [
-        "non-centrosymmetric"
+        "berry curvature"
       ],
-      "local_score": 5
+      "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2607.26986v2",
+      "id": "http://arxiv.org/abs/2608.04850v1",
       "source": "arXiv",
-      "title": "Theory of phonon-magnon hybridization and angular momentum in CrI$_3$ and CrBr$_3$",
+      "title": "Two-dimensional Toda--Arnoldi correspondence: Holomorphic Krylov geometry and counterdiabatic transport",
       "authors": [
-        "Maxime Mignolet",
-        "Miquel Royo",
-        "Massimiliano Stengel",
-        "Matthieu J. Verstraete"
+        "Urei Miura"
       ],
-      "published": "2026-07-29",
-      "url": "http://arxiv.org/abs/2607.26986v2",
-      "pdf_url": "https://arxiv.org/pdf/2607.26986v2",
-      "abstract": "In magnetic materials angular momentum can be mediated by different carriers, including electrons, magnons, and phonons. The magnons can interact with circularly polarized phonons which are close in energy, provided specific symmetry conditions are met. If the interaction is strong enough the phonons and magnons shift in frequency and start to mix to form hybrid magneto-elastic quasi-particles. In this paper, we develop a constrained Hamiltonian framework which incorporates hybrid stiffness matrices and Berry curvatures. We quantify the degree of hybridization between phonons and magnons (up to 8% in CrI$_3$ and 25% in CrBr$_3$) using a decomposition of the total energy, which is a generalization of the norm decomposition for atomic contributions to phonons used in the literature. We also explore how the total angular momentum is conserved but shared between the phononic and magnonic subsystems upon hybridization.",
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04850v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04850v1",
+      "abstract": "Although Arnoldi reduction of a generally non-Hermitian Hamiltonian yields an upper Hessenberg matrix rather than the tridiagonal form of Hermitian Lanczos theory, we show that a closed Toda sector survives in its diagonal and subdiagonal coefficients. For a fixed finite-dimensional Hamiltonian and a cyclic state vector deformed holomorphically, the Krylov Gram determinants are $τ$ functions of the finite two-dimensional Toda lattice, whose Flaschka variables coincide exactly with these Arnoldi coefficients. The Toda dynamics therefore closes on this sector without determining the remaining upper Hessenberg entries. The subdiagonal part of the same sector also has a direct geometric meaning: the squared subdiagonal coefficients determine both the Fubini--Study metric and the Berry curvature of holomorphic Krylov subspaces, whereas the geometric quantities associated with subspaces lost at Arnoldi breakdown cease to be defined. Along a smooth real path in the cyclic region, the Arnoldi-frame connection further provides a Hermitian tridiagonal generator of exact isospectral transport. When added to the Arnoldi matrix, this generator cancels transitions between instantaneous eigenspaces and realizes counterdiabatic driving whenever the matrix is diagonalizable with a nondegenerate spectrum.",
+      "source_categories": [
+        "quant-ph",
+        "cond-mat.stat-mech",
+        "math-ph",
+        "nlin.SI"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.04269v1",
+      "source": "arXiv",
+      "title": "Magnetic Field Reorganization of Electronic States in Moiré Bilayer Graphene",
+      "authors": [
+        "Milan Sharma Mandigo-Stoba",
+        "William Wang",
+        "Jackson Kuklin",
+        "Jack Lichterman",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Qianhui Shi"
+      ],
+      "published": "2026-08-04",
+      "url": "http://arxiv.org/abs/2608.04269v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04269v1",
+      "abstract": "Magnetic fields are widely used to diagnose quantum phases in two-dimensional systems through quantum oscillations or by tuning spin and valley polarizations, but magnetic fields can also reshape the underlying electronic structure. Here, using a bilayer graphene/hBN moiré system, we reveal a rich magnetic field induced evolution of the semiclassical orbit network, encompassing Lifshitz transitions, magnetic breakdown, and scattering between coexisting electron and hole pockets. At magnetic fields of 1 T to 2 T, quantum oscillation frequencies and the Hall density change markedly over a broad carrier density range, signaling magnetic breakdown and magnetic Lifshitz transitions. This evolution is valley contrasting: Berry curvature hot spots near the breakdown junctions enhance magnetic breakdown in the K valley while suppressing it in the K$^\\prime$ valley, whereas valley-antisymmetric orbital magnetic moments split the corresponding Lifshitz transitions. The resulting valley-selective trajectories manifest at higher fields as valley-symmetry-breaking Hofstadter gaps. At elevated temperatures and low magnetic fields, scattering between coexisting electron and hole pockets produces nearly density-independent resistance oscillations whose frequency tracks the sum of their Fermi surface areas, persisting after conventional Onsager oscillations are thermally washed out. Our results provide a unified picture of how modest magnetic fields reorganize moiré electronic states as the system evolves from semiclassical transport toward the Hofstadter regime.",
+      "source_categories": [
+        "cond-mat.mes-hall"
+      ],
+      "matched_terms": [
+        "berry curvature"
+      ],
+      "local_score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.04184v1",
+      "source": "arXiv",
+      "title": "Pressure-Tunable Electronic and Magnonic Transport in Altermagnet La$_2$O$_3$Mn$_2$Se$_2$",
+      "authors": [
+        "Nafise Rezaei",
+        "Alireza Qaiumzadeh",
+        "Artem R. Oganov",
+        "Mojtaba Alaei"
+      ],
+      "published": "2026-08-04",
+      "url": "http://arxiv.org/abs/2608.04184v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04184v1",
+      "abstract": "Hydrostatic pressure provides a symmetry-preserving route to engineer electronic and magnonic transport in the correlated insulating altermagnet La$_2$O$_3$Mn$_2$Se$_2$. Using first-principles calculations combined with spin-Hamiltonian modeling, we show that compression from 0 to 40 GPa markedly enhances the inequivalence between the competing second-neighbor exchange interactions, increasing $|J_{2a}-J_{2b}|$ from 1.97 to 9.38 meV while preserving the compensated antiferromagnetic ground state. The resulting exchange anisotropy amplifies the momentum-dependent splitting between the two chiral magnon branches, yielding a nearly fourfold enhancement of the longitudinal magnon-driven spin Seebeck response at 100 K, from $3.68\\times10^{-1}$ to $1.36$ meV/K. In contrast, hydrostatic pressure preserves the magnetic-symmetry selection rules governing the anomalous Hall effect while redistributing the electronic Berry curvature, producing pronounced energy-dependent sign reversals in the anomalous Hall conductivity. These results identify exchange anisotropy as the microscopic mechanism underlying the pressure-enhanced magnon response and establish hydrostatic pressure as an effective means of simultaneously controlling electronic and magnonic transport in insulating altermagnets.",
       "source_categories": [
         "cond-mat.mtrl-sci"
       ],
@@ -234,40 +313,45 @@
       "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2607.26660v1",
-      "source": "arXiv",
-      "title": "Entanglement signatures of topological phase transitions in a dirty Weyl semimetal",
+      "id": "doi:10.1007/s41468-026-00249-9",
+      "source": "Journal of Applied and Computational Topology",
+      "title": "Parametrized topological complexity of bundles of real projective spaces, I",
       "authors": [
-        "Vinícius Mohr",
-        "Shunji Tsuchiya",
-        "Andras Szabo"
+        "Michael Farber",
+        "Amit Kumar Paul",
+        "Lucile Vandembroucq"
       ],
-      "published": "2026-07-29",
-      "url": "http://arxiv.org/abs/2607.26660v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.26660v1",
-      "abstract": "Three-dimensional Weyl semimetals (WSMs) constitute paradigmatic gapless topological phases whose nodal structure is stable against weak perturbations, including disorder. Two distinct ways to destroy the topology of the Weyl nodes are through pairwise annihilation in momentum space or by sufficiently strong disorder that eliminates the quasiparticle pole, driving the system into a non-Fermi-liquid diffusive-metallic state. In this work, we study the evolution of entanglement spectrum and entanglement entropy of a dirty WSM as it undergoes these two topological transitions. In the clean limit, the WSM topology is reflected by a locus of $ξ=1/2$ eigenvalues of the reduced correlation matrix mirroring the structure of Fermi arcs. We show that disorder broadens this feature into a finite-width distribution, which disappears either through a gradual loss of spectral weight upon node annihilation or by melting into the background at the onset of metallicity. When tuning across the disorder-driven transition, the scaling of the Rényi entropies observed for weak disorder gradually breaks down as the system approaches the critical disorder strength.",
+      "published": "2026-08-03",
+      "url": "https://doi.org/10.1007/s41468-026-00249-9",
+      "pdf_url": "",
+      "abstract": "Abstract In this paper we study parametrized topological complexity of bundles of real projective spaces which arise as projectivisations of vector bundles. We develop algebraic machinery for computing lower bounds for the parametrized topological complexity of projective bundles based on theory of Stiefel - Whitney characteristic classes. We establish sharp upper bounds for the parametrized topological complexity of projective bundles improving the general upper bounds. Combining the lower and the upper bounds we compute explicitly many specific examples.",
       "source_categories": [
-        "cond-mat.mes-hall",
-        "cond-mat.dis-nn"
+        "journal-article"
       ],
       "matched_terms": [
-        "weyl semimetal"
+        "characteristic class"
       ],
       "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2607.28388v1",
+      "id": "http://arxiv.org/abs/2608.06010v1",
       "source": "arXiv",
-      "title": "Extreme sensitivity of nonlinear trajectories enhances optical spectral broadening",
+      "title": "Twist-angle Control of Nonlinear Interference in a ZnO Nanowire/Monolayer WSe$_2$ Hybrid Structure",
       "authors": [
-        "Jiachen Wang",
-        "Koorosh Sadri",
-        "Mikael C. Rechtsman"
+        "Maximilian Tomoscheit",
+        "Benedikt Mathes",
+        "Alexander Zaunick",
+        "Moritz Willems",
+        "Edwin Eobaldt",
+        "Priyanka S. Prakash",
+        "Eva Perlt",
+        "Carsten Ronning",
+        "Giancarlo Soavi"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.28388v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.28388v1",
-      "abstract": "The generation of a wide spectrum of light in highly nonlinear optical fibers has broad application in spectroscopy, microscopy and medical imaging. To generate such a 'supercontinuum', an ultrashort pulse of light is injected into a highly nonlinear fiber. Then, in a process called self-phase modulation, the nonlinearity of the fiber causes the spectrum to start broadening as the pulse becomes chirped during propagation, seeding further cascaded nonlinear processes. The dynamics associated with supercontinuum generation are captured mathematically as a pulse profile evolving in time and occupying a single spatial mode. Here, we theoretically and experimentally demonstrate that a waveguide composed of multiple coupled cores - a photonic molecule' - rather than just a single core, gives rise to greater self-phase modulation for a given input power. This is perhaps counterintuitive because it may be naively expected that the strongest nonlinear effects would be achieved by concentrating all optical power in one waveguide. The increased broadening arises due to the extreme sensitivity of trajectories near a separatrix of the nonlinear dynamics. This sensitivity leads to a distortion of the temporal shape of the pulse, resulting in a broader spectrum. The effect is reminiscent of the sensitivity associated with exceptional points in coupled-resonator systems, but does not suffer in the same way from the parasitic effects of noise. This suggests that by including multiple cores, a straightforward modification of conventional nonlinear fiber design, supercontinuum sources seeded by self-phase modulation can generate a significantly wider spectrum. More broadly, this demonstrates that the sensitivity to initial conditions associated with nonlinear dynamics may be utilized to generate stronger nonlinear effects in optics.",
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.06010v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06010v1",
+      "abstract": "Nanoscale devices that integrate materials of different dimensionalities (0D, 1D, and 2D) hold great potential for advanced applications in photonics and optoelectronics. A fundamental requirement for the development of such devices is the engineering and control of light-matter interactions beyond the simple enhancement or quenching of linear and nonlinear optical emission. In this study, we demonstrate control over nanoscale light-matter interactions by achieving twist-angle tunability of the nonlinear optical response in a hybrid system composed of a ZnO nanowire and a monolayer of WSe$_2$. By varying the relative orientation between the ZnO polar axis and the WSe$_2$ crystal axes, we realize both constructive and destructive interference in second-harmonic generation, as well as full material selectivity in second harmonic polarization-dependent measurements. These outcomes arise from the distinct dimensionalities and symmetries of the hybrid constituents, underscoring the generality of our approach. Thus, our work presents an advanced framework for the design and control of nonlinear light-matter interactions in nanoscale hybrid devices, thereby paving the way for their future use in photonic and optoelectronic technologies.",
       "source_categories": [
         "physics.optics"
       ],
@@ -277,57 +361,31 @@
       "local_score": 3
     },
     {
-      "id": "http://arxiv.org/abs/2607.28067v1",
+      "id": "http://arxiv.org/abs/2608.04931v1",
       "source": "arXiv",
-      "title": "Spin-canting-induced Giant Nonlinear Optical Magnetochirality in a 2D Ferrotoroid",
+      "title": "Photonic-chip-based generation of sub-100-femtosecond optical frequency combs",
       "authors": [
-        "Shian Xia",
-        "Sheng Liu",
-        "Wenhe Jia",
-        "Fanglu Qin",
-        "Xuanji Wang",
-        "Haixiang Luo",
-        "Yue Sun",
-        "Vanessa Li Zhang",
-        "Wenduo Chen",
-        "Jiazheng Qin",
-        "Cheng-Wei Qiu",
-        "Ting Yu"
+        "Weiqiang Xie",
+        "Zhengshun Lei",
+        "Zeyu Xiao",
+        "Yudi Zhao",
+        "Xing Zou",
+        "Wenqi Wei",
+        "Zihao Wang",
+        "Ting Wang",
+        "Jianjun Zhang",
+        "Bofang Zheng",
+        "Yikai Su"
       ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.28067v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.28067v1",
-      "abstract": "Achieving magnetically switchable chiral light emission is an important goal for 2D opto-spintronics. However, conventional strategies face a fundamental trade-off between dynamic tunability and polarization contrast. Nonlinear optics, particularly the emerging mechanism of chiral second-harmonic generation (SHG), offers a distinct strategy to bypass this restriction, yet its experimental realization remains elusive due to stringent symmetry requirements. Here, we report giant nonlinear optical magnetochirality in a centrosymmetric 2D ferrotoroid, bilayer (2L) CrSBr. We reveal that a field-induced spin-canting state breaks the parity-time (PT) symmetry of the unperturbed antiferromagnetic (AFM) ground state, activating a spin-chirality-driven i-type susceptibility. The coherent interference between this emergent i-type and intrinsic c-type SHG susceptibilities generates a macroscopic circularly polarized SHG signal whose helicity is magnetically switchable. Leveraging this sensitive mechanism, we uncover remanent magnetic states after field saturation that evade conventional linear probes. By exploiting the non-volatility of these states, we demonstrate magneto-optical memory and logic operations. Our work establishes a general symmetry-driven strategy for tailoring nonlinear magnetochirality, while providing a sensitive optical probe for subtle spin textures in the 2D limit.",
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04931v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04931v1",
+      "abstract": "Sub-100-fs optical pulses and frequency comb sources have been revolutionizing a wide range of applications, from ultrafast optical science to optical frequency standard and measurement. To date, the leading techniques for generating such pulses in practical systems rely on tabletop mode-locked lasers, which inherently suffer from high system complexity, limited long-term reliability, and pronounced environmental sensitivity. Meanwhile, driven by advances in photonic integration, chip-scale approaches have sought to realize miniaturized pulse sources. However, simultaneously achieving sub-100-fs duration, ideal pulse shape, and a broadband flat-topped spectrum remains a significant challenge. Here, we address these challenges by combining two key photonic chip technologies: TFLN EO modulators for picosecond seed pulse generation, and highly nonlinear optical loop mirrors (NOLM) based on AlGaAsOI nanowaveguides for efficient temporal pulse cleaning and spectral broadening. In theoretical simulation and experiment, we show that for an input seed pulse centred at ~1550nm, a single-stage AlGaAs NOLM with a loop length of 1cm can produce flat-topped, nearly tenfold spectral broadening and over tenfold compression of pulse width, and more than 10dB suppression of pulse pedestals. Using initial EO comb pulses with ps-level durations at repetition rates of 10-20GHz, we demonstrate photonic-chip-enabled pulses with an unprecedented duration of 55fs and a flat-topped comb spectrum whose 10dB optical bandwidth exceeds 90nm. Our results highlight the remarkable potential of photonic chip technologies to realize high-repetition-rate, miniaturized sub-100-fs optical pulse generators with the prospect of superior stability and operability. The demonstrated photonic-chip-based sub-100-fs optical frequency comb sources may establish a new paradigm for both scientific research and practical applications.",
       "source_categories": [
-        "physics.optics",
-        "cond-mat.mtrl-sci"
-      ],
-      "matched_terms": [
-        "nonlinear optical"
-      ],
-      "local_score": 3
-    },
-    {
-      "id": "http://arxiv.org/abs/2607.27847v1",
-      "source": "arXiv",
-      "title": "Even-harmonic generation through nonequilibrium steady-state symmetry breaking",
-      "authors": [
-        "Milad Jangjan",
-        "Arman Kashef",
-        "Siamak Pooyan",
-        "Stefan Scheel",
-        "Dieter Bauer"
-      ],
-      "published": "2026-07-30",
-      "url": "http://arxiv.org/abs/2607.27847v1",
-      "pdf_url": "https://arxiv.org/pdf/2607.27847v1",
-      "abstract": "High-harmonic generation (HHG) in inversion-symmetric systems is typically restricted to odd harmonics by symmetry. Here, we show that this selection rule can be broken without modifying the underlying Hamiltonian. We investigate a boundary-driven Su-Schrieffer-Heeger (SSH) chain coupled to source and sink reservoirs and demonstrate that dissipative dynamics generates a nonequilibrium steady state carrying a finite DC current. While the SSH Hamiltonian retains inversion symmetry, the current-carrying steady-state density matrix does not, leading to the emergence of even harmonics in the emitted spectrum. Using a correlation-matrix approach based on the Lindblad master equation, we obtain the steady state and calculate the resulting HHG response. We find that the intensity of the even harmonics is directly controlled by the transport current, establishing a link between nonequilibrium charge transport and HHG selection rules. Our results uncover a mechanism for even-harmonic generation that relies solely on nonequilibrium steady-state symmetry breaking and provide a route to probing transport currents through ultrafast nonlinear spectroscopy in centrosymmetric quantum systems.",
-      "source_categories": [
-        "quant-ph",
         "physics.optics"
       ],
       "matched_terms": [
-        "inversion symmetry"
+        "nonlinear optical"
       ],
       "local_score": 3
     }
