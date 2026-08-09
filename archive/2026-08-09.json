@@ -1,0 +1,275 @@
+{
+  "updated_at": "2026-08-09T17:01:08Z",
+  "edition_label": "Week of August 3, 2026",
+  "edition_type": "weekly",
+  "topic": "Topological photovoltaics, rectification, quantum geometry, and noncentrosymmetric materials",
+  "items": [
+    {
+      "id": "http://arxiv.org/abs/2608.06326v1",
+      "source": "arXiv",
+      "title": "Multi-State Geometry of Density Matrices and Rectification Sum Rules",
+      "authors": [
+        "Barry Bradlyn"
+      ],
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.06326v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06326v1",
+      "categories": [
+        "shift_current",
+        "quantum_geometry",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "multi-state geometry",
+        "rectification sum rules",
+        "density matrices",
+        "shift current"
+      ],
+      "highlight": true,
+      "highlight_label": "Many-body geometry of rectification",
+      "research_relevance_score": 10,
+      "tldr": "A many-body multi-state geometry yields rectification sum rules that generalize shift-current geometry beyond clean, noninteracting systems.",
+      "summary": "The paper develops a multi-state geometry for thermal density matrices and uses it to derive sum rules for second-order rectification without assuming weak disorder or interactions. A complex quantum generalization of the Amari-Chentsov tensor captures the geometry of perturbed density matrices. For insulating systems, the frequency-integrated dc rectification response is written as a difference between a ground-state third cumulant and a geometric distortion tensor. In the shift-current specialization, the geometric term separates into particle-like and hole-like contributions. A generalized Kane-Mele calculation verifies the sum rule and finds that geometry can dominate the integrated response. At low temperature, the measured sum rule remains close to its zero-temperature form up to exponentially small gap corrections.",
+      "research_relevance": "This is the most directly useful theory lead because it makes quantum geometry operational for rectification while admitting disorder and interactions. The particle/hole decomposition gives a concrete way to compare multiband shift-current contributions, and the low-temperature correction estimate connects the formal sum rule to experiment. It may provide a benchmark for testing whether a proposed geometric photocurrent survives beyond a single-particle clean-limit calculation.",
+      "potential_use": "Use the sum rule as a benchmark for interacting or disordered shift-current calculations; this is a proposed methodological use.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "intrinsic shift current",
+        "second-order dc rectification"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The supplied abstract does not establish bulk noncentrosymmetry for the generalized model.",
+      "relevance_rank": 1,
+      "evidence_basis": "Multi-state density-matrix geometry, rectification sum rules, shift-current decomposition, generalized Kane-Mele verification, and low-temperature correction estimate are stated in the supplied abstract.",
+      "key_strength": "It extends geometric rectification analysis to many-body density matrices, disorder, and interactions.",
+      "key_limitation": "The abstract does not provide a material-specific bulk BPV prediction or isolate disorder-induced photocurrent channels.",
+      "critical_assessment": "This is the strongest theory paper in the supplied set because it targets rectification directly and removes the clean, noninteracting restriction that limits many geometric response claims. The generalized Kane-Mele verification supports the formal result, and the low-temperature estimate gives an experimental regime where the decomposition may remain useful. The remaining gap is transfer to a concrete noncentrosymmetric material: the abstract does not determine which microscopic current channel dominates in a device or how disorder modifies the measurable tensor. It is therefore a high-value benchmark, not yet a materials prediction."
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.04875v1",
+      "source": "arXiv",
+      "title": "Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions",
+      "authors": [
+        "Srijata Lahiri",
+        "Gourab Paul",
+        "Bilal Tanatar",
+        "Saurabh Basu"
+      ],
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.04875v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04875v1",
+      "categories": [
+        "quantum_geometry",
+        "topological_materials",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "moiré watermill lattice",
+        "pseudospin-3/2",
+        "Berry curvature dipole",
+        "Chern phase"
+      ],
+      "highlight": true,
+      "highlight_label": "Topology-tunable nonlinear Hall response",
+      "research_relevance_score": 9,
+      "tldr": "Strain activates a Berry-curvature-dipole nonlinear Hall response in a moiré lattice whose sign changes across high-Chern topological phase boundaries.",
+      "summary": "The authors study a four-band moiré watermill lattice with suppressed group velocities near discrete magic angles. An inversion-breaking onsite mass gaps the manifold and produces a nontrivial bulk topological phase with sectors carrying high Chern numbers. Strain then breaks residual C3 symmetry, activating a finite Berry curvature dipole and nonlinear Hall response. The dipole reverses sign sharply across topological phase boundaries, producing butterfly-like parameter maps. The calculated response is reported to be larger than in symmetry-broken transition-metal dichalcogenides, which the authors associate with elevated Wilson-loop winding and enhanced quantum geometry of pseudospin-3/2 bands. Thermal effects are also included in the response analysis.",
+      "research_relevance": "This is a concrete model for using a nonlinear response as a phase-boundary diagnostic: inversion breaking creates the topological manifold, while strain supplies the symmetry breaking needed for a Berry-curvature dipole. The sign reversal across high-Chern sectors and the claimed enhancement from high pseudospin provide testable handles for comparing topology and quantum geometry. Its connection to photovoltaics is indirect because the calculated observable is nonlinear Hall transport rather than optical dc BPVE.",
+      "potential_use": "Use the phase-boundary sign reversal as a design hypothesis for separating topology-driven nonlinear transport from ordinary symmetry-breaking backgrounds; speculative.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "nonlinear Hall response"
+      ],
+      "topological_invariants": [
+        "Chern number",
+        "Wilson-loop winding"
+      ],
+      "noncentrosymmetry_evidence": "The supplied abstract states that an inversion-breaking onsite mass drives the bulk model into a nontrivial phase, but it does not establish a specific material crystal.",
+      "relevance_rank": 2,
+      "evidence_basis": "Moiré model, inversion-breaking mass, high-Chern sectors, strain-activated Berry curvature dipole, sign reversal at phase boundaries, and thermal response are stated in the supplied abstract.",
+      "key_strength": "It links a tunable nonlinear signal to topological phase boundaries and high-pseudospin quantum geometry.",
+      "key_limitation": "The result is nonlinear Hall transport in a model, not a demonstrated optical photocurrent or material experiment.",
+      "critical_assessment": "The paper offers a sharp response-based diagnostic: the Berry-curvature dipole changes sign at calculated topological phase boundaries, while strain controls the symmetry needed for a finite nonlinear Hall signal. That makes the model more decision-relevant than a generic quantum-geometry enhancement claim. However, the response is not a shift or injection current, and the abstract gives no disorder, optical-frequency, contact, or relaxation analysis. The association between large magnitude and Wilson-loop winding is suggestive rather than a universal bound. It is best treated as a mechanism and phase-diagnostic lead for moiré systems."
+    },
+    {
+      "id": "doi:10.1002/advs.76848",
+      "source": "Advanced Science",
+      "title": "Flexoelectric Suppression of Interfacial Carrier Loss in BaTiO 3 Thin‐Film Bulk Photovoltaic Systems",
+      "authors": [
+        "Minwoo Jang",
+        "Hyunkyu Lim",
+        "Sanghoon Yeom",
+        "Jaehwan Oh",
+        "Yongsoo Yang",
+        "Hyungwoo Lee"
+      ],
+      "published": "2026-07-29",
+      "url": "https://doi.org/10.1002/advs.76848",
+      "pdf_url": "",
+      "categories": [
+        "topological_photovoltaics",
+        "nonlinear_transport"
+      ],
+      "tags": [
+        "BaTiO3",
+        "flexoelectricity",
+        "interfacial recombination",
+        "thin-film BPV"
+      ],
+      "highlight": true,
+      "highlight_label": "Interface-loss engineering in BPV",
+      "research_relevance_score": 8,
+      "tldr": "Flexoelectric strain gradients enhance BaTiO3 thin-film photocurrent by reshaping interfacial electrostatics and suppressing carrier recombination.",
+      "summary": "The paper studies bulk photovoltaic operation in single-crystalline BaTiO3 thin films, focusing on interfacial carrier loss that limits thin-film photocurrent. Systematic loading experiments combined with self-consistent electrostatic modeling show that mechanically induced flexoelectric strain gradients reconfigure interfacial electrostatics and enhance the local drift field. The authors report an approximately 35-fold, or 3557%, increase in photocurrent attributed to reduced interfacial recombination. The model captures thickness-dependent carrier extraction and identifies structural, electrostatic, and material-specific parameters that jointly govern interface-limited performance. The supplied abstract establishes a device and transport mechanism for improving BPV extraction, but it does not resolve the microscopic intrinsic optical current channel.",
+      "research_relevance": "This is a useful experimental counterweight to mechanism-first BPV discussions: a large device photocurrent change can arise from interface electrostatics and recombination even when the intrinsic generation channel is not identified. The thickness-dependent model offers a concrete framework for separating generation from extraction in ferroelectric thin films. It could help benchmark whether a calculated shift or injection current survives realistic interfaces, though no topological invariant is involved.",
+      "potential_use": "Use the flexoelectric control variables as a benchmark for modeling extraction and recombination separately from intrinsic BPV generation; proposed use.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "bulk photovoltaic effect; microscopic generation channel unresolved",
+        "recombination suppression",
+        "drift-field-assisted extraction"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The supplied abstract identifies ferroelectric BaTiO3 thin films but does not state a bulk space group or explicit noncentrosymmetric evidence.",
+      "relevance_rank": 3,
+      "evidence_basis": "Single-crystalline BaTiO3 thin-film experiments, flexoelectric strain gradients, electrostatic modeling, photocurrent increase, and interfacial recombination mechanism are stated in the supplied abstract.",
+      "key_strength": "It quantifies how interface-loss engineering can dominate measured thin-film BPV performance.",
+      "key_limitation": "The abstract does not identify the microscopic optical photocurrent channel or establish topological enhancement.",
+      "critical_assessment": "The paper is valuable because it isolates a practical bottleneck that can obscure microscopic BPV physics: interfacial recombination and extraction. The reported 35-fold increase, together with a self-consistent electrostatic model, gives a concrete test case for separating carrier generation from device collection. Its limitation is equally important: the abstract does not identify shift, injection, ballistic, or impurity-assisted current, and it does not establish a topological mechanism. The result should therefore guide transport-aware interpretation of BPV experiments rather than be read as evidence for a new intrinsic photocurrent theory."
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.05308v1",
+      "source": "arXiv",
+      "title": "Topological Charge-Transfer Excitons",
+      "authors": [
+        "Huiyuan Zheng",
+        "Kaijie Yang",
+        "Ting Cao",
+        "Di Xiao"
+      ],
+      "published": "2026-08-05",
+      "url": "http://arxiv.org/abs/2608.05308v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05308v1",
+      "categories": [
+        "topological_materials",
+        "quantum_geometry"
+      ],
+      "tags": [
+        "charge-transfer excitons",
+        "topological exciton bands",
+        "Kagome lattice",
+        "quantum geometry"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 7,
+      "tldr": "Bond-centered charge-transfer excitons form a topological Kagome-like band with nearly uniform quantum geometry even when the underlying electron and hole bands are trivial.",
+      "summary": "The paper shows how the internal structure of charge-transfer excitons can generate topology independently of the topology of their constituent electron and hole bands. Lateral electron-hole separation places the composite exciton on the bond between constituent sites. In a honeycomb model, three symmetry-related bond-centered orbitals form a Kagome lattice. Bethe-Salpeter calculations show that time-reversal-symmetry breaking can produce a topological exciton flat band, with nearly uniformly distributed quantum geometry favorable for interaction-driven bosonic phases. The work establishes a mechanism for topology in localized composite bound states rather than in single-particle Bloch bands. The supplied abstract does not calculate a photocurrent or optical rectification coefficient.",
+      "research_relevance": "This is a high-value frontier lead for extending band-topology questions to photoexcited composite states. The bond-centered embedding and emergent Kagome manifold provide a concrete microscopic route by which excitonic internal geometry could affect optical selection rules, nonlinear absorption, or transport after excitation. Those consequences are not established here, but the paper supplies a model in which topology and quantum geometry arise from the bound state itself, potentially relevant to excitonic photovoltaic mechanisms.",
+      "potential_use": "Use the bond-centered exciton construction as a starting model for asking whether topological exciton geometry modifies nonlinear optical generation or extraction; speculative.",
+      "confidence": "medium",
+      "photocurrent_mechanisms": [
+        "photoexcitation; photocurrent consequence not calculated"
+      ],
+      "topological_invariants": [
+        "topological exciton band"
+      ],
+      "noncentrosymmetry_evidence": "The supplied abstract does not establish bulk noncentrosymmetry.",
+      "relevance_rank": 4,
+      "evidence_basis": "Bond-centered charge-transfer exciton embedding, emergent Kagome manifold, Bethe-Salpeter calculation, topological flat band, and quantum geometry are stated in the supplied abstract.",
+      "key_strength": "It gives a microscopic mechanism for topology and geometry in composite photoactive states.",
+      "key_limitation": "No optical current, rectification, relaxation, or material-specific photovoltaic prediction is provided.",
+      "critical_assessment": "The paper earns inclusion as a forward-looking topology lead because it moves the relevant geometry from single-particle bands into composite exciton structure. The bond-centered Kagome mapping is concrete, and the Bethe-Salpeter treatment supports the claimed bound-state mechanism. The photovoltaic connection is presently conjectural: no excitation rate, optical matrix element, recombination pathway, or dc current is computed, and the time-reversal-breaking condition is model-level evidence rather than a material demonstration. Its best use is to formulate a new mechanism question about topological excitons, not to support a present BPV claim."
+    },
+    {
+      "id": "doi:10.1038/s42005-026-02800-7",
+      "source": "Communications Physics",
+      "title": "Optical signatures and quantum geometry in proximity-induced topological superconductors",
+      "authors": [
+        "Myungjun Kang",
+        "Yogeshwar Prasad",
+        "Nikhil Danny Babu",
+        "Rasoul Ghadimi",
+        "Jae Hoon Kim",
+        "Sangmo Cheon"
+      ],
+      "published": "2026-08-06",
+      "url": "https://doi.org/10.1038/s42005-026-02800-7",
+      "pdf_url": "",
+      "categories": [
+        "topological_materials",
+        "quantum_geometry"
+      ],
+      "tags": [
+        "topological superconductivity",
+        "TI-SC heterostructure",
+        "optical conductivity",
+        "quantum geometry"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 7,
+      "tldr": "Thickness-extracted optical conductance isolates a buried proximitized interface and relates its low-frequency spectral weight to quantum geometry.",
+      "summary": "The paper develops a quantitative theory for longitudinal optical response in topological-insulator–superconductor heterostructures. A thickness-extrapolation procedure is proposed to separate buried interface conductance from bulk and exposed-surface contributions. The extracted interface response has a thickness-independent coherence peak set by the proximity-induced gap, distinct from the parent-superconductor pair-breaking scale and exposed topological-insulator Dirac cone. At low energies, the interface is described by an effective time-reversal-invariant topological-superconducting theory. The associated low-frequency optical spectral weight is interpreted through an optical sum rule with a quantum-geometric contribution. The abstract establishes a spectroscopy protocol and optical diagnostic, not a second-order photocurrent or bulk photovoltaic effect.",
+      "research_relevance": "The main connection is methodological: buried-interface optical signals and quantum-geometric spectral weight must be separated from bulk and surface backgrounds before assigning a topological response. The thickness-extrapolation idea could inform layered-material BPV experiments where interfaces, contacts, and surfaces contaminate the measured signal. It is not a direct photovoltaic paper, but it supplies a concrete response-decomposition strategy for topological heterostructures.",
+      "potential_use": "Adapt thickness-extrapolated conductance as a control for interface and surface contributions in layered nonlinear-response measurements; proposed use.",
+      "confidence": "high",
+      "photocurrent_mechanisms": [
+        "linear optical response; no photocurrent channel calculated"
+      ],
+      "topological_invariants": [
+        "time-reversal-invariant topological-superconducting phase"
+      ],
+      "noncentrosymmetry_evidence": "The supplied abstract does not establish bulk inversion breaking.",
+      "relevance_rank": 5,
+      "evidence_basis": "TI-SC optical-response theory, thickness-extrapolated interface conductance, coherence peak, effective topological-superconducting description, and quantum-geometric optical sum rule are stated in the supplied abstract.",
+      "key_strength": "It provides a practical way to isolate buried-interface optical response from surface and bulk backgrounds.",
+      "key_limitation": "The observable is linear optical conductance, with no second-order response or photovoltaic current.",
+      "critical_assessment": "The paper is relevant mainly because it makes optical-background separation explicit in a topological heterostructure. The thickness-independent coherence peak and interface-versus-surface decomposition are useful controls for interpreting layered optical data, and the sum-rule connection gives quantum geometry a measurable context. The limitation for this radar is substantial: the response is linear, the system is a superconducting interface, and no dc photocurrent, inversion-breaking BPVE, or nonlinear relaxation channel is derived. It should inform experimental protocol and response decomposition, not be treated as a direct extension of shift-current theory."
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.05709v1",
+      "source": "arXiv",
+      "title": "Helical-to-Fan Transitions under Magnetic Fields in the Noncentrosymmetric Tetragonal Magnet EuRhGe$_3$",
+      "authors": [
+        "S. S. Tsirlin",
+        "M. N. Wilson",
+        "A. S. Gibbs",
+        "A. M. Abakumov",
+        "S. M. Yusuf",
+        "Y. H. Liu"
+      ],
+      "published": "2026-08-06",
+      "url": "http://arxiv.org/abs/2608.05709v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05709v1",
+      "categories": [
+        "noncentrosymmetric_materials",
+        "topological_materials"
+      ],
+      "tags": [
+        "EuRhGe3",
+        "noncentrosymmetric magnet",
+        "helimagnet",
+        "magnetic phase transitions"
+      ],
+      "highlight": false,
+      "highlight_label": "",
+      "research_relevance_score": 5,
+      "tldr": "Resonant x-ray diffraction maps field-driven helical, soliton-lattice, and fan phases in the explicitly noncentrosymmetric magnet EuRhGe3.",
+      "summary": "The paper uses resonant x-ray diffraction to determine the magnetic structures of noncentrosymmetric tetragonal EuRhGe3. Below its Néel temperature, the material forms an incommensurate helix with in-plane moments and a propagation vector along the tetragonal axis. A field along the a axis generates a second-harmonic 2q diffraction peak, signaling distortion toward a helimagnetic soliton-lattice state, followed by lock-in to a commensurate structure. Higher fields produce spin-flop xyz-fan and planar xy-fan phases. The abstract presents EuRhGe3 as a prototypical field-tunable noncentrosymmetric helimagnet. It does not report topology, optical response, or photovoltaic current.",
+      "research_relevance": "This is retained below the normal score floor because it supplies an explicit bulk noncentrosymmetric material platform with tunable magnetic order. Such phase control could be useful for testing whether magnetic texture, chirality, or field-induced symmetry changes affect nonlinear optical tensors or photocurrent mechanisms. The proposed connection is exploratory: the supplied abstract contains diffraction evidence only and does not establish a topological invariant, Berry response, or BPVE.",
+      "potential_use": "Use EuRhGe3 as a candidate material for future symmetry-resolved nonlinear-optical measurements across magnetic phase transitions; speculative.",
+      "confidence": "medium",
+      "photocurrent_mechanisms": [
+        "none established"
+      ],
+      "topological_invariants": [],
+      "noncentrosymmetry_evidence": "The supplied abstract explicitly identifies EuRhGe3 as a noncentrosymmetric body-centered tetragonal magnet with space group I4mm.",
+      "relevance_rank": 6,
+      "evidence_basis": "Explicit I4mm noncentrosymmetry, resonant x-ray magnetic-structure determination, field-induced 2q peak, lock-in, and fan phases are stated in the supplied abstract.",
+      "key_strength": "It establishes a concrete bulk noncentrosymmetric magnetic material with multiple tunable phases.",
+      "key_limitation": "No photocurrent, nonlinear optical response, or topological invariant is reported.",
+      "critical_assessment": "This is a deliberately qualified inclusion: it clears the highlighted-material exception because the abstract explicitly establishes a bulk noncentrosymmetric crystal and maps several field-tunable magnetic phases. That makes it a plausible material lead for future symmetry-resolved nonlinear optics. However, the paper provides no Berry curvature, topology, optical tensor, or photocurrent calculation, and a magnetic diffraction harmonic is not evidence of a photovoltaic channel. Its rank reflects material specificity rather than demonstrated relevance; it should trigger a follow-up search only when broad discovery is authorized."
+    }
+  ]
+}
