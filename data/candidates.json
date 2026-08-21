@@ -1,196 +1,114 @@
 {
-  "collected_at": "2026-08-14T14:19:49.210477Z",
+  "collected_at": "2026-08-21T13:56:57.780037Z",
   "window_days": 9,
-  "candidate_count": 14,
+  "candidate_count": 10,
   "research_focus": "Topological photovoltaic and nonlinear-response phenomena in quantum materials, particularly connections among band topology, quantum geometry, disorder and scattering, broken inversion symmetry, and the mathematical classification of delicate or unstable band invariants.\n",
   "candidates": [
     {
-      "id": "doi:10.1103/5rrq-5g1k",
-      "source": "Physical Review B",
-      "title": "Spin-selective elliptic optical dichroism and perfectly spin-polarized third-order nonlinear photocurrent in altermagnets",
-      "authors": [
-        "Motohiko Ezawa"
-      ],
-      "published": "2026-08-13",
-      "url": "https://doi.org/10.1103/5rrq-5g1k",
-      "pdf_url": "",
-      "abstract": "We show that the low-energy theory of a d -wave altermagnet is characterized by anisotropic Dirac cones with spin-split band structures based on a recently proposed tight-binding model. In this system, spin-selective perfect elliptic dichroism emerges, enabling exclusive excitation of either up-spin or down-spin electrons by tuning the ellipticity of the incident light. We further derive a formula for the third-order photocurrent generated under simultaneous application of elliptically polarized light and a static electric field, expressed in terms of the quantum metric and Berry curvature. Using this formula, we demonstrate that only an up-spin polarized current is induced. This third-order response constitutes the leading photocurrent, as second-order processes such as injection and shift currents are forbidden by the inversion symmetry inherent to altermagnets. They lead to the prediction that, in insulating d -wave altermagnets, a spin-polarized third-order photocurrent arises as the leading electric response when elliptically polarized light and a static electric field are applied simultaneously. These findings provide a foundation for future developments in photoinduced spintronics based on altermagnets.",
-      "source_categories": [
-        "journal-article"
-      ],
-      "matched_terms": [
-        "shift current",
-        "inversion symmetry",
-        "quantum metric",
-        "berry curvature"
-      ],
-      "local_score": 21
-    },
-    {
-      "id": "doi:10.1002/adfm.77531",
-      "source": "Advanced Functional Materials",
-      "title": "Multidimensional Sensing in Flexible Violet Phosphorus Photodetectors Driven by the Bulk Photovoltaic Effect",
-      "authors": [
-        "Wenqi Mo",
-        "Mengjie Jiang",
-        "Jinqiu Huang",
-        "Libo Zhang",
-        "Shijian Tian",
-        "Guangye Li",
-        "Shicong Hou",
-        "Yunduo Zhang",
-        "Kening Xiao",
-        "Bolang Peng",
-        "Yiran Tan",
-        "Yuanfeng Wen",
-        "Xueyuan Wei",
-        "Guanhai Li",
-        "Xiaoshuang Chen"
-      ],
-      "published": "2026-08-09",
-      "url": "https://doi.org/10.1002/adfm.77531",
-      "pdf_url": "",
-      "abstract": "ABSTRACT The bulk photovoltaic effect (BPVE) generates zero bias photocurrents in systems with broken inversion symmetry, offering a junction free pathway for self‐powered optoelectronic devices and conceptually overcoming the Shockley‐Queisser efficiency limit of conventional junction based devices. However, achieving high performance self‐powered photodetection across a broadband spectrum remains challenging, and low dimensional quantum materials that enable efficient multi‐mechanism photoconversion with superior optoelectronic properties remain scarce. Here, we devise a flexible, bio‐inspired device architecture on polyethylene terephthalate (PET) substrates that synergistically leverages the intrinsic properties of few‐layer violet phosphorus (VP)—a material with localized inversion symmetry breaking—to enable broadband multidimensional sensing, thereby surpassing the limitations of conventional junction‐based devices. By synergizing the unique low symmetry crystal structure of few‐layer VP with a flexible device architecture, we achieve a substantial zero‐bias photocurrent of 20 µA, a high responsivity of 0.01 A/W, and a polarization ratio (PR) of 5.5 at 650 nm. The polarization imaging system constructed with this detector achieves high contrast imaging and image processing of surface polarization states by capturing multi‐angle polarization images and calculating Stokes parameters. This work establishes a generalizable bionic strategy for engineering high performance, self‐powered polarization selective photodetectors for next generation intelligent imaging, remote sensing, and integrated photonic systems.",
-      "source_categories": [
-        "journal-article"
-      ],
-      "matched_terms": [
-        "bulk photovoltaic",
-        "broken inversion",
-        "inversion symmetry"
-      ],
-      "local_score": 14
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.12968v1",
+      "id": "http://arxiv.org/abs/2608.18720v1",
       "source": "arXiv",
-      "title": "Dissipationless Photovoltaic Spin Hall Effect from Spin-current Vorticity",
+      "title": "Linear and nonlinear optical responses in the chiral multifold semimetal BeAu: A quantum-geometric perspective",
       "authors": [
-        "Longjun Xiang",
-        "Jian Wang"
+        "Babu Baijnath Prasad",
+        "Taisuke Ozaki"
       ],
-      "published": "2026-08-13",
-      "url": "http://arxiv.org/abs/2608.12968v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.12968v1",
-      "abstract": "Spin-current vorticity (SCV) can generate the linear magnetic spin Hall effect [\\href{https://doi.org/10.1038/s41586-018-0853-0}{Nature \\textbf{565}, 627 (2019)}], yet its role in nonlinear spin Hall transport has been much less explored. Here, we show that, under a dc electric field, SCV can deflect optically excited electrons to drive a dissipationless photovoltaic spin Hall effect (PSHE), in which optical excitation by circularly and linearly polarized light is governed by the Berry curvature and quantum metric, respectively. Because the Berry curvature is $\\mathcal{T}$-odd whereas the quantum metric is $\\mathcal{T}$-even, their respective combinations with the $\\mathcal{T}$-odd SCV give rise to $\\mathcal{T}$-even and $\\mathcal{T}$-odd PSHEs, where $\\mathcal{T}$ denotes time-reversal symmetry. Remarkably, we find that the spin current of the $\\mathcal{T}$-even PSHE can be reversed by switching the light helicity, as illustrated in monolayer WTe$_2$. By contrast, the $\\mathcal{T}$-odd PSHE in altermagnets changes sign upon Néel-vector reversal, as demonstrated in a $d$-wave altermagnetic model. Beyond the PSHE, we show that the SCV dipole governs both the Drude and intrinsic nonlinear spin Hall effects proposed recently. Our results reveal two switchable spin Hall mechanisms and establish SCV as a unifying concept for understanding dissipationless nonlinear spin Hall transport.",
+      "published": "2026-08-19",
+      "url": "http://arxiv.org/abs/2608.18720v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.18720v1",
+      "abstract": "Chiral topological semimetals provide a natural platform for exploring how multifold band topology and quantum geometry manifest in optical and photovoltaic responses. BeAu is a chiral multifold semimetal hosting band crossings at $Γ$, $M$, and $R$ with Chern numbers $C_Γ=-4$, $C_M=-2$, and $C_R=+4$, respectively. In this work, we study the linear optical conductivity and second-order dc photocurrent responses of BeAu using fully relativistic first-principles calculations. The calculated interband linear optical conductivity, Re $σ_{xx}(ω)$, is quantitatively reproduced by $(e^2/\\hbar)ωg_{xx}(ω)$, showing that its spectral features are governed by the photon energy factor and the variation of the photon energy-resolved quantum-metric spectral weight. The linear shift current conductivity is closely related to the symplectic connection, whereas the circular injection current susceptibility is governed by the transition-resolved product of Berry curvature and the interband group velocity difference. At the Fermi level, the linear shift current conductivity reaches approximately -810 $μ$A/V$^2$ at a photon energy of 0.05 eV. Aligning the chemical potential with the multifold crossings strongly reshapes both responses, producing the largest linear shift current conductivity peak for $μ=μ_R$ and pronounced changes in the magnitude and sign of the circular injection current susceptibility. The circular photogalvanic trace is strongly photon-energy and chemical-potential dependent and does not exhibit a broad quantized plateau, indicating competing multiband transitions. Our results establish a unified quantum-geometric description of the linear and nonlinear optical responses of BeAu and identify it as a promising platform for optoelectronic phenomena governed by multifold band topology and quantum geometry.",
       "source_categories": [
         "cond-mat.mtrl-sci"
       ],
       "matched_terms": [
-        "quantum metric",
-        "berry curvature"
-      ],
-      "local_score": 11
-    },
-    {
-      "id": "doi:10.1103/h1st-bs3g",
-      "source": "Physical Review D",
-      "title": "Axion dark matter detection via shift current",
-      "authors": [
-        "Dan Kondo",
-        "Takahiro Morimoto",
-        "Genta Osaki",
-        "Thanaporn Sichanugrist"
-      ],
-      "published": "2026-08-13",
-      "url": "https://doi.org/10.1103/h1st-bs3g",
-      "pdf_url": "",
-      "abstract": "We propose a novel method to detect axion dark matter based on a topological phenomenon known as the shift current. We make use of the second-order nonlinearity of the shift current by applying a strong oscillating electric field. This field enhances the axion-induced shift current signal and downconverts its frequency to a more accessible range. The nondissipative nature of the shift current allows us to achieve broadband detection via difference frequency generation. We demonstrate the possibility of probing QCD axions and axion-like particles using the properties of the type-I Weyl semimetal TaAs, targeting an axion mass of O ( 10 ) meV , corresponding to a photon coupling of g a γ γ ≃ O ( 10 − 11 ) GeV − 1 .",
-      "source_categories": [
-        "journal-article"
-      ],
-      "matched_terms": [
         "shift current",
-        "weyl semimetal"
+        "photogalvanic",
+        "quantum geometry",
+        "berry curvature",
+        "nonlinear optical"
       ],
-      "local_score": 11
+      "local_score": 26
     },
     {
-      "id": "http://arxiv.org/abs/2608.12152v1",
+      "id": "http://arxiv.org/abs/2608.19770v1",
       "source": "arXiv",
-      "title": "The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2",
+      "title": "Gradient flow towards quantum states with ideal quantum geometry",
       "authors": [
-        "Dan Li",
-        "Liu Yang",
-        "Lei Li"
+        "T. Shiga",
+        "T. Fukui"
       ],
-      "published": "2026-08-12",
-      "url": "http://arxiv.org/abs/2608.12152v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.12152v1",
-      "abstract": "Breaking the conventional stereotype that ferroelectrics are necessarily insulating, two-dimensional (2D) ferroelectric metals combine seemingly incompatible switchable electric polarization and metallic conductivity, providing a fertile ground for the discovery of novel electrical transport phenomena and the development of innovative electronic devices. Using the semiclassical Boltzmann equation and first-principles calculations, we systematically investigate the linear and nonlinear transport responses of the intrinsic 2D ferroelectric metal \\ch{PtBi2} to an applied electric field. Our \\textit{ab initio} molecular dynamics simulations reveal that it possesses a high Curie temperature reaching $800~\\text{K}$. We propose that the crystal structure of its high-temperature paraelectric phase can be explicitly distinguished through simple measurements of the in-plane electrical conductivity. Quantitative calculations of the Edelstein effect and the intrinsic spin Hall effect demonstrate a sizable charge-to-spin conversion efficiency, highlighting its potential in spintronics. We also find that a Berry curvature dipole-induced nonlinear Hall effect emerges in uniaxially strained \\ch{PtBi2}. Furthermore, we highlight the unique advantages of 2D ferroelectric metals in gate-controlled transport applications. Based on the domain wall scattering mechanism, we conceptually design a novel ferroelectric metal field-effect transistor (FEM-FET) capable of nonvolatile switching between high-resistance and low-resistance states under a gate voltage. Our work not only unveils the rich transport physics in 2D ferroelectric metals but also provides valuable insights into the design of next-generation nonvolatile memory and spintronic devices.",
+      "published": "2026-08-20",
+      "url": "http://arxiv.org/abs/2608.19770v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.19770v1",
+      "abstract": "We propose a gradient-flow method for quantum states in lattice models, generated by an action consisting of the quantum-metric and the square of the Berry curvature. These two terms drive the spectral projector toward Bogomolny saturation and uniform Berry curvature, respectively. We show that, due to a no-go theorem for finite-dimensional projectors, the two conditions cannot in general be satisfied simultaneously in lattice models. Hence the flow is expected to approach a nontrivial fixed point that balances the two geometric requirements. For the Wilson-Dirac model, we demonstrate that the flowed projector exhibits almost uniform Berry curvature while remaining close to the Bogomolny bound. We further construct a short-range truncated flattened Hamiltonian from the flowed projector and obtain a lattice model with nearly flat bands and nearly uniform Berry curvature. We also apply the method to the Hofstadter model and confirm the roles of the metric and Berry-curvature terms in a Chern band with higher Chern number.",
       "source_categories": [
-        "cond-mat.mtrl-sci",
+        "quant-ph",
         "cond-mat.mes-hall"
       ],
       "matched_terms": [
-        "berry curvature",
-        "nonlinear hall"
+        "quantum geometry",
+        "berry curvature"
       ],
-      "local_score": 9
+      "local_score": 11
     },
     {
-      "id": "http://arxiv.org/abs/2608.12221v1",
-      "source": "arXiv",
-      "title": "Second-Chern Bounds in Non-Abelian Quantum Geometry",
+      "id": "doi:10.1002/adom.71672",
+      "source": "Advanced Optical Materials",
+      "title": "Entropy‐Driven Precursor Symmetry Breaking for Phase‐Selective Synthesis of Noncentrosymmetric Rb 2 CdCl 2 I 2",
       "authors": [
-        "Junwen Zhao",
-        "Zhiming Pan",
-        "Kang Yang",
-        "Congjun Wu"
+        "Sheng Lv",
+        "Liangcheng Song",
+        "Yanling Xu",
+        "Jiahao Zhou",
+        "Chongqiang Zhu",
+        "Chunhui Yang"
       ],
-      "published": "2026-08-12",
-      "url": "http://arxiv.org/abs/2608.12221v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.12221v1",
-      "abstract": "We study the quantum geometry of doubly degenerate energy levels in a four-dimensional parameter space. For degenerate pairs with $SU(2)$ gauge structures, the quantum geometry obeys $\\big(\\textrm{tr } g\\big)^2/16\\geq\\sqrt{\\det g}\\geq |\\textrm{Tr}(F\\wedge F)|/12$. The first inequality characterizes the anisotropy in the metric. The second determinant inequality measures the self-duality of the curvature under Hodge star operation and the inter-level processes that do not close under the three $SU(2)$ rotations of the doubly degenerate levels. The saturation of the determinant bound induces a quaternion Kähler structure on the four-dimensional parameter space, analogous to the complex structure induced by the ideal-band condition in two-dimensional Chern insulators. As examples, four-band Dirac Hamiltonians automatically saturate the determinant bound and possess a topological zero in $\\textrm{Tr}(F\\wedge F)$. We discuss the comparison to degenerate pairs with $U(2)$ gauge structures.",
+      "published": "2026-08-17",
+      "url": "https://doi.org/10.1002/adom.71672",
+      "pdf_url": "",
+      "abstract": "ABSTRACT Controllable synthesis of noncentrosymmetric (NCS) structures is a key challenge in infrared nonlinear optical (NLO) materials. We propose an entropy‐driven precursor symmetry breaking strategy that directs crystallization of NCS phases under identical composition by tuning precursor symmetry and aggregation. In Rb 2 CdCl 2 I 2 , hydrothermal conditions transform symmetric [CdCl 4 I 2 ] octahedra into asymmetric configurations and larger clusters, while room‐temperature evaporation yields symmetric small aggregates. Raman and dynamic light scattering show vibrational entropy drives this: at elevated temperatures, degeneracy lifting activates extra vibrational modes, giving asymmetric species an entropic advantage. Classical nucleation theory (CNT) reveals interfacial energy barrier inversion due to symmetry change, enabling selective crystallization of noncentrosymmetric I 4 mm phase over centrosymmetric I 4/ mmm . Variable‐temperature X‐ray diffraction (XRD) and differential scanning calorimetry (DSC) confirm a reversible displacive phase transition driven by softening/freezing of octahedral tilting modes, underscoring vibrational entropy's role in phase stability. The resulting Rb 2 CdCl 2 I 2 ( I 4 mm ) exhibits a bandgap of 3.70 eV, transparency from 0.48–83 µm, laser‐induced damage threshold (LIDT) of 56.2 MW cm −2 (19 × AgGaS 2 ), and phase‐matchable second‐harmonic generation (SHG) of 0.17 × KDP. This strategy offers a new paradigm for synthesizing NCS structures for infrared NLO materials.",
       "source_categories": [
-        "cond-mat.mes-hall",
+        "journal-article"
+      ],
+      "matched_terms": [
+        "noncentrosymmetric",
+        "nonlinear optical"
+      ],
+      "local_score": 8
+    },
+    {
+      "id": "http://arxiv.org/abs/2608.19539v1",
+      "source": "arXiv",
+      "title": "Higher Chern--Simons Theory in $2n+2$ Dimensions for Balanced 2-term $L_\\infty$-Algebras",
+      "authors": [
+        "Danhua Song",
+        "Yibo Wang"
+      ],
+      "published": "2026-08-20",
+      "url": "http://arxiv.org/abs/2608.19539v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.19539v1",
+      "abstract": "We construct a semistrict higher Chern--Simons (HCS) gauge theory in $2n+2$ dimensions associated with balanced 2-term $L_\\infty$-algebras. Starting from the homotopy Maurer--Cartan theory, we first introduce 2-term $L_\\infty$-algebra gauge theory, and show that there is a four-dimensional HCS construction. Then we extend invariant bilinear pairings to invariant multilinear forms of the appropriate degree, and define a $(2n+3)$-dimensional higher Pontryagin--Chern form, which is closed and invariant under infinitesimal gauge transformations. Its transgression yields an explicit $(2n+2)$-dimensional HCS form. We further establish a higher Chern--Weil theorem that generates higher transgression forms, and prove that the HCS theory is a distinguished instance of the higher transgression gauge theory. Finally, we apply the extended Cartan homotopy formula in this semistrict setting, and show that it is a common origin of both the higher Chern--Weil theorem and the associated triangle equation.",
+      "source_categories": [
+        "hep-th",
         "math-ph"
       ],
       "matched_terms": [
-        "quantum geometry"
+        "pontryagin"
       ],
       "local_score": 7
     },
     {
-      "id": "doi:10.1063/5.0331249",
-      "source": "Applied Physics Letters",
-      "title": "Domain switching-induced large rigid shift of the bulk photovoltaic effect in (111)-oriented BiFeO3 epitaxial films",
+      "id": "doi:10.1088/1751-8121/ae9c7a",
+      "source": "Journal of Physics A: Mathematical and Theoretical",
+      "title": "N-bein formalism for degenerate states in the parameter space of quantum geometry",
       "authors": [
-        "Rui Chen",
-        "Mingyue Long",
-        "Yucheng Kan",
-        "Yuhao Lin",
-        "Linyue Zhu",
-        "Qiang Zhu",
-        "Yan Wang",
-        "Ye Chen",
-        "Junhao Chu",
-        "Lin Sun"
+        "Jorge Romero",
+        "Carlos Andres Velasquez",
+        "J David Vergara"
       ],
-      "published": "2026-08-11",
-      "url": "https://doi.org/10.1063/5.0331249",
+      "published": "2026-08-20",
+      "url": "https://doi.org/10.1088/1751-8121/ae9c7a",
       "pdf_url": "",
-      "abstract": "The bulk photovoltaic effect (BPVE) in ferroelectric materials exhibits intrinsic sensitivity to light polarization, offering opportunities for self-powered polarization photodetection. However, the impact of ferroelectric domain switching on BPVE and its underlying mechanism remain insufficiently understood. Herein, we report the first experimental demonstration of electric-field modulation of BPVE in (111)-oriented BiFeO3 (BFO) epitaxial films. The (111)-oriented devices exhibit a continuous and rigid vertical shift (i.e., photocurrent offset) of the BPVE curves under external electric field, while preserving their amplitude and phase, in contrast to the (001) counterparts. Notably, the photocurrent modulation range along the in-plane electrode direction is four times larger than that of (001)-oriented devices. Piezoresponse force microscopy and crystal structure analysis reveal multidirectional domain switching in the (111)-oriented BFO films, which continuously modulates the interfacial Schottky barriers, thus accounts for the observed rigid shift. These findings elucidate the orientation dependent electric-field tuning mechanism of BPVE and highlight the advantage of (111)-oriented BFO for polarization-sensitive photodetector applications.",
-      "source_categories": [
-        "journal-article"
-      ],
-      "matched_terms": [
-        "bulk photovoltaic"
-      ],
-      "local_score": 7
-    },
-    {
-      "id": "doi:10.21468/scipostphys.21.2.037",
-      "source": "SciPost Physics",
-      "title": "Revisiting the quantum geometry of torus-fibered Calabi-Yau threefolds",
-      "authors": [
-        "Boris Pioline",
-        "Thorsten Schimannek"
-      ],
-      "published": "2026-08-10",
-      "url": "https://doi.org/10.21468/scipostphys.21.2.037",
-      "pdf_url": "",
-      "abstract": "About ten years ago, Katz, Klemm and Huang conjectured that topological string amplitudes on compact, elliptically fibered Calabi-Yau threefolds at fixed base degree could be expressed in terms of meromorphic Jacobi forms for SL(2,\\mathbb{Z}) S L ( 2 , ℤ ) , giving access to Gromov-Witten invariants at arbitrary genus. This was later generalized to torus-fibered CY threefolds with N N -sections, where topological string amplitudes are conjecturally governed by meromorphic Jacobi forms under the congruence subgroup \\Gamma_1(N) Γ 1 ( N ) . In this work, we show that these modularity properties follow from (and are equivalent to) the wave-function property of the topological string partition function Z_{\\rm top} under a relative conifold monodromy, implementing a particular Fourier-Mukai transformation on the derived category of coherent sheaves. In particular, we introduce a variant of Z_{\\rm top} which is both holomorphic and modular covariant. Under the same relative conifold monodromy, the generating series of genus 0 Gopakumar-Vafa invariants at fixed base degree is mapped to the generating series of rank 0 Donaldson-Thomas indices counting D4-D2-D0-brane bound states wrapped on the torus fiber. We show that the quasimodularity of the generating series of GV invariants matches the expected mock-modular behavior of the generating series of D4-D2-D0 indices, despite having different multi-cover contributions. We analyze and tabulate a large number of CY threefolds fibered over del Pezzo surfaces, with an N N -section for N≤ 5 N ≤ 5 , including several new examples beyond the realm of toric geometry.",
+      "abstract": "Abstract Recently, we introduced a geometric object analogous to an orthonormal frame in the Cartan formalism to study the parameter space of quantum systems; we called it $\\mathcal{N}$-bein, with $\\mathcal{N}$ being the number of parameters that characterize the quantum system. Acting as the ``square root'' of the quantum geometric tensor, the $\\mathcal{N}$-bein allows us to define new tensors to improve our understanding of the structure beneath the parameter space of quantum mechanics. In this work, we extend this mathematical framework surrounding the $\\mathcal{N}$-bein to analyze the parameter space of quantum systems with degenerate spectra. As in the non-degenerate case, we define a non-Abelian two-state quantum geometric tensor to identify possible transitions between degenerate states after two consecutive parameter variations. Additionally, using the Wilczek-Zee connection, we introduce a torsion-like tensor as the covariant derivative of the $\\mathcal{N}$-bein. This torsion captures the noncommutativity of successive parameter variations and coincides with the antisymmetric part of the two-state quantum geometric tensor. We also present a geometrical formulation using differential forms and discuss the physical implications of the newly defined tensors. Furthermore, we construct several gauge-invariant observables from the $\\mathcal{N}$-bein and its derivatives to highlight the utility of the new tensors. Finally, to illustrate the convenience and applications of this formalism, we apply the theoretical framework to a system of coupled harmonic oscillators immersed in an electric field. The coupling between the oscillators results in a degenerate system. Thus, using the new formalism, we found correlations among the quantum states quantified by the new invariants.",
       "source_categories": [
         "journal-article"
       ],
@@ -200,41 +118,23 @@
       "local_score": 7
     },
     {
-      "id": "doi:10.1007/s11082-026-09061-2",
-      "source": "Optical and Quantum Electronics",
-      "title": "Radiative and bulk photovoltaic efficiencies of devices based on two-dimensional transition metal dichalcogenide alloys",
+      "id": "doi:10.1088/1361-648x/ae9c15",
+      "source": "Journal of Physics: Condensed Matter",
+      "title": "Coexistent chiral phonons and multiple topological states with van-Hove singularities in noncentrosymmetric XYZ (X = Ni, Pt, Pd; Y = Sb, Bi; Z = S, Se) family: An ab-initio study",
       "authors": [
-        "César Tablero-Crespo",
-        "Simon A. Svatek"
+        "Bibhash Paul",
+        "Sreeparvathy P C",
+        "Deng-Chi Wang",
+        "Aniceto B Maghirang",
+        "Zhi-Quan Huang",
+        "Feng-Chuan Chuang"
       ],
-      "published": "2026-08-08",
-      "url": "https://doi.org/10.1007/s11082-026-09061-2",
+      "published": "2026-08-19",
+      "url": "https://doi.org/10.1088/1361-648x/ae9c15",
       "pdf_url": "",
-      "abstract": "Abstract In this study the photovoltaic potential of two-dimensional Transition Metal Dichalcogenide alloys is evaluated by considering several efficiency metrics, absorber layer thicknesses, light-trapping strategies, and both radiative and bulk photovoltaic effects across different photon energy ranges, from monochromatic spectra to the full AM1.5G solar spectrum. The results using the full solar AM1.5G spectrum and light-trapping show that films as thin as 1 nm (10 nm) could achieve up to 14% (29%) power conversion efficiency with the radiative photovoltaic effect, whereas the internal efficiencies are larger: up to ~ 33% (~ 58%). From the results, the bulk photovoltaic effect cannot realistically achieve efficiencies comparable to conventional radiative photovoltaic effect with the typical material parameters, and its performance remains significantly below the Shockley–Queisser limit. For both photovoltaic effects, the monochromatic efficiencies exceed those computed for the full solar AM1.5G spectrum in a wide range of energies, and the global efficiency is smaller than the other efficiency metrics.",
+      "abstract": "Abstract Non-symmorphic chiral crystals can host unconventional higher-fold topological excitations with long Fermi arcs. On the other hand, phonons in chiral materials possess a non-zero angular momentum, leading to the generation of chiral phonons. This work reports the coexistence of higher-fold topological and chiral phonons, accompanied by multiple types of conventional and unconventional fermions in ternary chiral crystals XYZ (X = Ni, Pt, Pd; Y = Sb, Bi; Z = S, Se). Our detailed study reveals symmetry-protected spin-1 Weyl and charge-2 Dirac topological phonon states in the phonon spectrum, as well as nonzero phonon angular momentum, thereby confirming their chiral nature. Interestingly, the electronic states exhibit multiple types of topological fermionic states under spin-orbit coupling (SOC). Moreover, a close examination of the density of states reveals van Hove singularities near the Fermi level, which may indicate possible superconductivity and warrant further experimental studies. Our findings highlight the coexistence of chiral and higher-fold topological phonons, multiple topological states in both phononic and electronic realms, and van Hove singularities in the studied ternary chiral crystals, which may serve as a basis for future topological device applications.",
       "source_categories": [
         "journal-article"
-      ],
-      "matched_terms": [
-        "bulk photovoltaic"
-      ],
-      "local_score": 7
-    },
-    {
-      "id": "http://arxiv.org/abs/2608.12639v1",
-      "source": "arXiv",
-      "title": "Dipolar-driven mean-field criticality in the ferrimagnet Eu$_2$MnSi$_2$O$_7$",
-      "authors": [
-        "Masahiro Kawamata",
-        "Maxim Avdeev",
-        "Yusuke Nambu"
-      ],
-      "published": "2026-08-12",
-      "url": "http://arxiv.org/abs/2608.12639v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.12639v1",
-      "abstract": "We report mean-field critical behavior in Eu$_2$MnSi$_2$O$_7$, a melilite-type ferrimagnet with spin-only Eu$^{2+}$ and Mn$^{2+}$ moments and negligible orbital contributions. Magnetization measurements combined with neutron powder diffraction reveal critical exponents close to the mean-field values, indicating that long-range dipolar interactions govern the asymptotic critical behavior in this insulating ferrimagnet. The refined magnetic structure, described by the magnetic space group $P2_12_1^\\prime2^\\prime$, exhibits a tilted ferrimagnetic configuration driven by the Dzyaloshinskii-Moriya interaction, reflecting the noncentrosymmetric nature of the lattice. These results extend the applicability of mean-field theory to complex insulating magnets and establish Eu$_2$MnSi$_2$O$_7$ as a platform for exploring ferrimagnetism and long-range interactions. To our knowledge, this is the first insulating ferrimagnet in which dipolar interactions drive mean-field criticality.",
-      "source_categories": [
-        "cond-mat.str-el",
-        "cond-mat.mtrl-sci"
       ],
       "matched_terms": [
         "noncentrosymmetric"
@@ -242,20 +142,19 @@
       "local_score": 5
     },
     {
-      "id": "http://arxiv.org/abs/2608.13238v1",
+      "id": "http://arxiv.org/abs/2608.19648v1",
       "source": "arXiv",
-      "title": "Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems",
+      "title": "Giant orbital Hall effect from cubic Dresselhaus orbital coupling",
       "authors": [
-        "Li-Wei He",
-        "Shun-Li Yu",
-        "Jian-Xin Li"
+        "Gwen Sevilen",
+        "Kyoung-Min Kim"
       ],
-      "published": "2026-08-13",
-      "url": "http://arxiv.org/abs/2608.13238v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.13238v1",
-      "abstract": "A main theme in modern condensed matter physics is the emergence of fractionalized excitations and gauge structures from quantum spin systems. However, understanding how these exotic degrees of freedom reconfine into new phases of matter remains a fundamental challenge. In this work, we demonstrate that Polyakov's confinement mechanism-a foundation of compact gauge theory-can serve as a dynamical engine to transform a Dirac spin liquid into a symmetry-protected topological (SPT) state. Starting with a Dirac spin liquid with spin-dependent gauge fluxes, we show that the single-occupancy constraint inherent to the physical Hilbert space triggers monopole condensation, dynamically confining bulk spinons while preserving gapless edge modes-realizing a spinon analog of the quantum spin Hall effect. Using a large-scale variational Monte Carlo simulation on a triangular antiferromagnet with an additional Dzyaloshinskii-Moriya interaction, we provide microscopic evidence for this confined SPT phase, including a characteristic area law for the Wilson loop and vanishing topological entanglement entropy. Furthermore, we identify a measurable spin-pump response under magnetic fields, which directly encodes the Berry curvature of the parent Dirac cones. Our results reveal a previously unexplored pathway to SPT physics, bridging the fields of gauge theory, quantum magnetism, and topological matter.",
+      "published": "2026-08-20",
+      "url": "http://arxiv.org/abs/2608.19648v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.19648v1",
+      "abstract": "The orbital Berry curvature (OBC) governs the intrinsic orbital Hall conductivity (OHC), a central quantity in orbitronics. Previous approaches for enhancing the OHC have primarily relied on a linearin-momentum, Rashba-type orbital coupling. Here, we show that cubic Dresselhaus orbital coupling offers a new route to enhancing the OHC. Using an effective two-orbital band model, we show that the cubic coupling generates momentum-space hot spots, absent in the purely linear case, at which the OBC is strongly enhanced. This local enhancement, together with the multiplicity of the hot spots, boosts the OHC by more than an order of magnitude relative to the linear-coupling value. We further find that the OHC diverges inversely with the level splitting in the small-splitting limit, with a divergence coefficient universally seventeen times larger than that of the linear case. These results establish cubic Dresselhaus coupling as a route to giant orbital Hall responses, opening new avenues for orbitronic device applications.",
       "source_categories": [
-        "cond-mat.str-el"
+        "cond-mat.mes-hall"
       ],
       "matched_terms": [
         "berry curvature"
@@ -263,25 +162,21 @@
       "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2608.11897v1",
+      "id": "http://arxiv.org/abs/2608.18527v1",
       "source": "arXiv",
-      "title": "Strain-controlled sign reversal of the anomalous Hall effect in Ru/[Co/Ni]$_N$ multilayers",
+      "title": "Topology is not silent in the transport noise of multiband bosons",
       "authors": [
-        "Jingying Zhang",
-        "Sigang Wang",
-        "Yue Xiang",
-        "Wenhui Xie",
-        "Zhe Yuan",
-        "Yi Liu",
-        "Zongzhi Zhang"
+        "Zhi-Wei Wang",
+        "Samuel L. Braunstein"
       ],
-      "published": "2026-08-12",
-      "url": "http://arxiv.org/abs/2608.11897v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.11897v1",
-      "abstract": "The anomalous Hall effect (AHE) is a hallmark transport phenomenon in ferromagnets arising from relativistic spin-orbit interaction. Here, we report an unexpected sign reversal of the AHE in Ru/[Co/Ni]$_N$ multilayers controlled by the stacking sequence of the Ru layer. When Ru is placed beneath, rather than atop, the Co/Ni multilayers, the anomalous Hall signal switches from positive to negative. By systematically varying the multilayer repeat number N and combining transport measurements with first-principles calculations, we show that this reversal originates from in-plane tensile strain imposed by the Ru underlayer, which reshapes the electronic structure and redistributes Berry curvature near the Fermi level. Our findings establish interfacial strain as an effective knob for tuning Berry-curvature-driven transport and suggest a pathway toward strain-controlled topological transport phenomena in magnetic multilayers.",
+      "published": "2026-08-19",
+      "url": "http://arxiv.org/abs/2608.18527v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.18527v1",
+      "abstract": "For electrons at a Fermi surface, the topological part of the Berry curvature drops out of the transport noise: the anomalous Hall conductivity is quantized, and the fluctuations of the Hall current know nothing about the Chern number. We show that this cancellation is an accident of the Fermi surface, and that it fails for bosons. Magnons and phonons thermally populate every band, each with its own Chern number, so the harmonic sector of the Hodge decomposition of the curvature is not a single constant and a variance does not annihilate it. What survives is the occupation-weighted dispersion of Chern numbers across populated bands. That band geometry is visible in current noise is known, and at zero temperature the antisymmetric part of the noise sum rule already returns a Chern number; what is new is an object with no zero-temperature analogue, existing only when several bands are populated and weighted differently. We derive it from a fluctuating Boltzmann equation and settle the energy-magnetization subtraction at the level of fluctuations: the subtracted term is the curl of a bounded magnetization density, so it contributes exactly zero to the current any transport measurement records, realization by realization. Is the quantity measurable? A driven protocol is not: the excess noise sits twelve orders below the equilibrium floor. An equilibrium protocol is, through a sum rule on the antisymmetric part of the current cross-spectrum, which carries no drive and hence no suppression. We prove that the frequency-integrated form of that sum rule cannot separate the topological from the geometric content, and show that the frequency-resolved cross-spectrum does separate them at accessible resolution. The protocol is specified for Cu(1,3-bdc), with its robustness to nuisance-model completeness and to dispersion, thermometry and field calibration.",
       "source_categories": [
-        "cond-mat.mtrl-sci",
-        "cond-mat.other"
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "cond-mat.stat-mech"
       ],
       "matched_terms": [
         "berry curvature"
@@ -289,46 +184,46 @@
       "local_score": 4
     },
     {
-      "id": "http://arxiv.org/abs/2608.12902v1",
+      "id": "http://arxiv.org/abs/2608.19476v1",
       "source": "arXiv",
-      "title": "Inverse-Designed Lithium Niobate Wavelength Demultiplexer via Birefringent Effective Index Approximation",
+      "title": "Altermagnetic memcapacitors",
       "authors": [
-        "Chihyeon Kim",
-        "Minho Choi",
-        "Munseong Bae",
-        "Hyounghan Kwon",
-        "Haejun Chung"
+        "Martin Latorre",
+        "Alvaro S. Nunez"
       ],
-      "published": "2026-08-13",
-      "url": "http://arxiv.org/abs/2608.12902v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.12902v1",
-      "abstract": "Inverse design of thin-film lithium niobate (TFLN) photonic devices is computationally demanding because optical birefringence and fabrication-induced slanted sidewalls generally require three-dimensional electromagnetic models. We introduce a birefringent effective-index (BEI) method to reduce this problem to two dimensions while retaining polarization-dependent slab confinement and a representative cross section of the etched geometry. The method is integrated with adjoint topology optimization and fabrication constraints to design a 30 x 10 um demultiplexer that routes 1550 and 775 nm light to separate output ports. Quantitative comparisons with three-dimensional finite-difference time-domain simulations establish the accuracy and etch-depth dependence of the reduced model. The fabricated device provides mean signal-to-crosstalk ratios of 13.9 dB across 1540-1560 nm and 13.3 dB across 770-780 nm. A two-stage cascaded configuration increases the output extinction ratio to 26.8 dB in the telecom band and 20.3 dB in the near-visible band. This fabrication-aware reduced-dimensional approach enables optimizations of the multifunctional photonic devices for nonlinear optical and quantum applications on the TFLN platform.",
+      "published": "2026-08-19",
+      "url": "http://arxiv.org/abs/2608.19476v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.19476v1",
+      "abstract": "We propose a spintronic memcapacitance effect based upon altermagnetic multiferroic materials. We identify the rare-earth vanadates RVO$_3$ as a concrete platform, with all key parameters tied to measured properties. Under an oscillating electric field, the resulting charge and spin currents trace pinched hysteresis loops that close tangentially at zero field -- the hallmark of memcapacitive, type-2 memdevice behavior -- with charge current densities exceeding, by a factor of about 3.6, the lowest deterministic switching current density reported for optimized spin-transfer-torque magnetic tunnel junctions. We model the system theoretically as a dimerized two-orbital $d$-wave altermagnetic lattice via a Su--Schrieffer--Heeger-type bond modulation, in the spirit of the spin-dependent Rice--Mele model, thereby coupling the altermagnetic order to field-switchable charge and spin polarizations. The associated polarization loops close tangentially at zero field and yield a sign-changing, history-dependent ``butterfly'' differential capacitance, identifying the device as a genuine memcapacitor. Both responses are protected by the same inversion symmetry, so charge and spin channels switch simultaneously with no separate control needed. These results establish altermagnetic multiferroics, realized concretely in RVO$_3$, as an efficient, non-volatile platform for combined electric and spintronic memory.",
       "source_categories": [
-        "physics.optics"
+        "cond-mat.mes-hall"
       ],
       "matched_terms": [
-        "nonlinear optical"
+        "inversion symmetry"
       ],
       "local_score": 3
     },
     {
-      "id": "http://arxiv.org/abs/2608.11756v1",
+      "id": "http://arxiv.org/abs/2608.19336v1",
       "source": "arXiv",
-      "title": "Single-Cycle Pulses, Transparent Conducting Oxides, Optical Nonlinearity, Quantum Coherence, Thermalization",
+      "title": "Multipolar Light-Matter Hamiltonians in Symmetry-Breaking Photonic Vacuums",
       "authors": [
-        "Ieng-Wai Un",
-        "Subhajit Sarkar",
-        "Yonatan Sivan"
+        "Liu Yang",
+        "Jiadu Lin",
+        "Qing-Dong Jiang"
       ],
-      "published": "2026-08-12",
-      "url": "http://arxiv.org/abs/2608.11756v1",
-      "pdf_url": "https://arxiv.org/pdf/2608.11756v1",
-      "abstract": "We present a first-principles study of the nonlinear optical response of transparent conducting oxides at the nanoscale due to excitation by intense, extremely short pulses based on a density matrix framework. We identify a strong ($O(1)$) thermal nonlinearity, which is complemented with stimulated emission and excited-state absorption; it yields a cumulative permittivity change decorated by quantum coherent oscillations. Further, rigorous calculations under far-from-equilibrium conditions show that electron-electron thermalization occurs within a few femtoseconds, supporting interpretations of high-harmonic generation measurements and in agreement with a generalization of Fermi liquid theory.",
+      "published": "2026-08-19",
+      "url": "http://arxiv.org/abs/2608.19336v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.19336v1",
+      "abstract": "We show that the conventional multipolar Hamiltonian is qualitatively modified when the photonic vacuum breaks inversion or time-reversal symmetry. By explicitly applying the Power-Zienau-Woolley transformation, we derive the resulting multipolar Hamiltonians for two idealized chiral photonic environments: a spatial-chiral vacuum, which breaks inversion symmetry, and a temporal-chiral vacuum, which breaks time-reversal symmetry. In the spatial-chiral case, the transformation generates an inversion-breaking self-energy, whereas in the temporal-chiral case it produces an additional Zeeman-like energy. Using a trapped hydrogen-like atom and a charged harmonic oscillator in cavities as minimal examples, we show that these symmetry-dependent terms lead to characteristic spectral shifts. Our work provides a general framework for describing light-matter interactions in chiral quantum electrodynamics and identifying the associated symmetry-dependent effects on cavity-embedded atoms, molecules, and quantum materials.",
       "source_categories": [
+        "quant-ph",
+        "cond-mat.other",
+        "physics.atom-ph",
         "physics.optics"
       ],
       "matched_terms": [
-        "nonlinear optical"
+        "inversion symmetry"
       ],
       "local_score": 3
     }
